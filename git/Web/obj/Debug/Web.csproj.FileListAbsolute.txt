@@ -1,0 +1,485 @@
+D:\money\cristi\My\cz\Share\Web\obj\Debug\Web.csprojAssemblyReference.cache
+D:\money\cristi\My\cz\Share\Web\obj\Debug\Web.csproj.ResolveComReference.cache
+D:\money\cristi\My\cz\Share\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\money\cristi\My\cz\Share\Web\bin\Web.dll.config
+D:\money\cristi\My\cz\Share\Web\bin\Web.dll
+D:\money\cristi\My\cz\Share\Web\bin\Web.pdb
+D:\money\cristi\My\cz\Share\Web\bin\BLL.dll
+D:\money\cristi\My\cz\Share\Web\bin\Commons.dll
+D:\money\cristi\My\cz\Share\Web\bin\Controls.dll
+D:\money\cristi\My\cz\Share\Web\bin\Engine.dll
+D:\money\cristi\My\cz\Share\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\money\cristi\My\cz\Share\Web\bin\Model.dll
+D:\money\cristi\My\cz\Share\Web\bin\Senparc.Weixin.dll
+D:\money\cristi\My\cz\Share\Web\bin\Senparc.Weixin.MP.dll
+D:\money\cristi\My\cz\Share\Web\bin\Senparc.Weixin.MP.MvcExtension.dll
+D:\money\cristi\My\cz\Share\Web\bin\Senparc.Weixin.MP.Sample.CommonService.dll
+D:\money\cristi\My\cz\Share\Web\bin\System.Net.Http.Formatting.dll
+D:\money\cristi\My\cz\Share\Web\bin\System.Web.Helpers.dll
+D:\money\cristi\My\cz\Share\Web\bin\System.Web.Http.dll
+D:\money\cristi\My\cz\Share\Web\bin\System.Web.Http.WebHost.dll
+D:\money\cristi\My\cz\Share\Web\bin\System.Web.Razor.dll
+D:\money\cristi\My\cz\Share\Web\bin\System.Web.WebPages.Deployment.dll
+D:\money\cristi\My\cz\Share\Web\bin\System.Web.WebPages.dll
+D:\money\cristi\My\cz\Share\Web\bin\System.Web.WebPages.Razor.dll
+D:\money\cristi\My\cz\Share\Web\bin\DAL.dll
+D:\money\cristi\My\cz\Share\Web\bin\DBHelper.dll
+D:\money\cristi\My\cz\Share\Web\bin\BLL.pdb
+D:\money\cristi\My\cz\Share\Web\bin\Commons.pdb
+D:\money\cristi\My\cz\Share\Web\bin\Controls.pdb
+D:\money\cristi\My\cz\Share\Web\bin\Engine.pdb
+D:\money\cristi\My\cz\Share\Web\bin\Model.pdb
+D:\money\cristi\My\cz\Share\Web\bin\Senparc.Weixin.MP.MvcExtension.pdb
+D:\money\cristi\My\cz\Share\Web\bin\Senparc.Weixin.MP.pdb
+D:\money\cristi\My\cz\Share\Web\bin\Senparc.Weixin.pdb
+D:\money\cristi\My\cz\Share\Web\bin\Senparc.Weixin.MP.Sample.CommonService.pdb
+D:\money\cristi\My\cz\Share\Web\bin\DAL.pdb
+D:\money\cristi\My\cz\Share\Web\bin\DBHelper.pdb
+D:\money\cristi\My\cz\Share\Web\obj\Debug\Web.csproj.CopyComplete
+D:\money\cristi\My\cz\Share\Web\obj\Debug\Web.dll
+D:\money\cristi\My\cz\Share\Web\obj\Debug\Web.pdb
+D:\money\cristi\My\cz\Share\Web\bin\System.Web.Mvc.dll
+D:\money\cristi\My\game\Web\bin\Web.dll.config
+D:\money\cristi\My\game\Web\bin\Web.dll
+D:\money\cristi\My\game\Web\bin\Web.pdb
+D:\money\cristi\My\game\Web\bin\BLL.dll
+D:\money\cristi\My\game\Web\bin\Commons.dll
+D:\money\cristi\My\game\Web\bin\Controls.dll
+D:\money\cristi\My\game\Web\bin\Engine.dll
+D:\money\cristi\My\game\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\money\cristi\My\game\Web\bin\Model.dll
+D:\money\cristi\My\game\Web\bin\Senparc.Weixin.dll
+D:\money\cristi\My\game\Web\bin\Senparc.Weixin.MP.dll
+D:\money\cristi\My\game\Web\bin\Senparc.Weixin.MP.Sample.CommonService.dll
+D:\money\cristi\My\game\Web\bin\System.Net.Http.Formatting.dll
+D:\money\cristi\My\game\Web\bin\System.Web.Helpers.dll
+D:\money\cristi\My\game\Web\bin\System.Web.Http.dll
+D:\money\cristi\My\game\Web\bin\System.Web.Http.WebHost.dll
+D:\money\cristi\My\game\Web\bin\System.Web.Mvc.dll
+D:\money\cristi\My\game\Web\bin\System.Web.Razor.dll
+D:\money\cristi\My\game\Web\bin\System.Web.WebPages.Deployment.dll
+D:\money\cristi\My\game\Web\bin\System.Web.WebPages.dll
+D:\money\cristi\My\game\Web\bin\System.Web.WebPages.Razor.dll
+D:\money\cristi\My\game\Web\bin\DAL.dll
+D:\money\cristi\My\game\Web\bin\DBHelper.dll
+D:\money\cristi\My\game\Web\bin\BLL.pdb
+D:\money\cristi\My\game\Web\bin\Commons.pdb
+D:\money\cristi\My\game\Web\bin\Controls.pdb
+D:\money\cristi\My\game\Web\bin\Engine.pdb
+D:\money\cristi\My\game\Web\bin\Model.pdb
+D:\money\cristi\My\game\Web\bin\Senparc.Weixin.MP.Sample.CommonService.pdb
+D:\money\cristi\My\game\Web\bin\DAL.pdb
+D:\money\cristi\My\game\Web\bin\DBHelper.pdb
+D:\money\cristi\My\game\Web\obj\Debug\Web.csprojAssemblyReference.cache
+D:\money\cristi\My\game\Web\obj\Debug\Web.csproj.ResolveComReference.cache
+D:\money\cristi\My\game\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\money\cristi\My\game\Web\obj\Debug\Web.csproj.CopyComplete
+D:\money\cristi\My\game\Web\obj\Debug\Web.dll
+D:\money\cristi\My\game\Web\obj\Debug\Web.pdb
+D:\money\cristi\My\game\Web\bin\System.CommonsModel.dll
+D:\money\cristi\My\yw\vote\Web\obj\Debug\Web.csprojAssemblyReference.cache
+D:\money\cristi\My\yw\vote\Web\obj\Debug\Web.csproj.ResolveComReference.cache
+D:\money\cristi\My\yw\vote\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\money\cristi\My\yw\vote\Web\bin\Web.dll.config
+D:\money\cristi\My\yw\vote\Web\bin\Web.dll
+D:\money\cristi\My\yw\vote\Web\bin\Web.pdb
+D:\money\cristi\My\yw\vote\Web\bin\BLL.dll
+D:\money\cristi\My\yw\vote\Web\bin\Commons.dll
+D:\money\cristi\My\yw\vote\Web\bin\Controls.dll
+D:\money\cristi\My\yw\vote\Web\bin\Engine.dll
+D:\money\cristi\My\yw\vote\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\money\cristi\My\yw\vote\Web\bin\Model.dll
+D:\money\cristi\My\yw\vote\Web\bin\Senparc.Weixin.dll
+D:\money\cristi\My\yw\vote\Web\bin\Senparc.Weixin.MP.dll
+D:\money\cristi\My\yw\vote\Web\bin\Senparc.Weixin.MP.Sample.CommonService.dll
+D:\money\cristi\My\yw\vote\Web\bin\System.Net.Http.Formatting.dll
+D:\money\cristi\My\yw\vote\Web\bin\System.Web.Helpers.dll
+D:\money\cristi\My\yw\vote\Web\bin\System.Web.Http.dll
+D:\money\cristi\My\yw\vote\Web\bin\System.Web.Http.WebHost.dll
+D:\money\cristi\My\yw\vote\Web\bin\System.Web.Mvc.dll
+D:\money\cristi\My\yw\vote\Web\bin\System.Web.Razor.dll
+D:\money\cristi\My\yw\vote\Web\bin\System.Web.WebPages.Deployment.dll
+D:\money\cristi\My\yw\vote\Web\bin\System.Web.WebPages.dll
+D:\money\cristi\My\yw\vote\Web\bin\System.Web.WebPages.Razor.dll
+D:\money\cristi\My\yw\vote\Web\bin\DAL.dll
+D:\money\cristi\My\yw\vote\Web\bin\DBHelper.dll
+D:\money\cristi\My\yw\vote\Web\bin\BLL.pdb
+D:\money\cristi\My\yw\vote\Web\bin\Commons.pdb
+D:\money\cristi\My\yw\vote\Web\bin\Controls.pdb
+D:\money\cristi\My\yw\vote\Web\bin\Engine.pdb
+D:\money\cristi\My\yw\vote\Web\bin\Model.pdb
+D:\money\cristi\My\yw\vote\Web\bin\Senparc.Weixin.MP.Sample.CommonService.pdb
+D:\money\cristi\My\yw\vote\Web\bin\DAL.pdb
+D:\money\cristi\My\yw\vote\Web\bin\DBHelper.pdb
+D:\money\cristi\My\yw\vote\Web\obj\Debug\Web.csproj.CopyComplete
+D:\money\cristi\My\yw\vote\Web\obj\Debug\Web.dll
+D:\money\cristi\My\yw\vote\Web\obj\Debug\Web.pdb
+D:\money\cristi\My\yw\nc\admin\Web\bin\Web.dll.config
+D:\money\cristi\My\yw\nc\admin\Web\bin\Web.dll
+D:\money\cristi\My\yw\nc\admin\Web\bin\Web.pdb
+D:\money\cristi\My\yw\nc\admin\Web\bin\BLL.dll
+D:\money\cristi\My\yw\nc\admin\Web\bin\Commons.dll
+D:\money\cristi\My\yw\nc\admin\Web\bin\Controls.dll
+D:\money\cristi\My\yw\nc\admin\Web\bin\Engine.dll
+D:\money\cristi\My\yw\nc\admin\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\money\cristi\My\yw\nc\admin\Web\bin\Model.dll
+D:\money\cristi\My\yw\nc\admin\Web\bin\NPOI.dll
+D:\money\cristi\My\yw\nc\admin\Web\bin\Senparc.Weixin.dll
+D:\money\cristi\My\yw\nc\admin\Web\bin\Senparc.Weixin.MP.dll
+D:\money\cristi\My\yw\nc\admin\Web\bin\Senparc.Weixin.MP.Sample.CommonService.dll
+D:\money\cristi\My\yw\nc\admin\Web\bin\System.Net.Http.Formatting.dll
+D:\money\cristi\My\yw\nc\admin\Web\bin\System.Web.Helpers.dll
+D:\money\cristi\My\yw\nc\admin\Web\bin\System.Web.Http.dll
+D:\money\cristi\My\yw\nc\admin\Web\bin\System.Web.Http.WebHost.dll
+D:\money\cristi\My\yw\nc\admin\Web\bin\System.Web.Mvc.dll
+D:\money\cristi\My\yw\nc\admin\Web\bin\System.Web.Razor.dll
+D:\money\cristi\My\yw\nc\admin\Web\bin\System.Web.WebPages.Deployment.dll
+D:\money\cristi\My\yw\nc\admin\Web\bin\System.Web.WebPages.dll
+D:\money\cristi\My\yw\nc\admin\Web\bin\System.Web.WebPages.Razor.dll
+D:\money\cristi\My\yw\nc\admin\Web\bin\DAL.dll
+D:\money\cristi\My\yw\nc\admin\Web\bin\ICSharpCode.SharpZipLib.dll
+D:\money\cristi\My\yw\nc\admin\Web\bin\DBHelper.dll
+D:\money\cristi\My\yw\nc\admin\Web\bin\BLL.pdb
+D:\money\cristi\My\yw\nc\admin\Web\bin\Commons.pdb
+D:\money\cristi\My\yw\nc\admin\Web\bin\Controls.pdb
+D:\money\cristi\My\yw\nc\admin\Web\bin\Model.pdb
+D:\money\cristi\My\yw\nc\admin\Web\bin\Engine.pdb
+D:\money\cristi\My\yw\nc\admin\Web\bin\Senparc.Weixin.MP.Sample.CommonService.pdb
+D:\money\cristi\My\yw\nc\admin\Web\bin\DAL.pdb
+D:\money\cristi\My\yw\nc\admin\Web\bin\DBHelper.pdb
+D:\money\cristi\My\yw\nc\admin\Web\obj\Debug\Web.csprojAssemblyReference.cache
+D:\money\cristi\My\yw\nc\admin\Web\obj\Debug\Web.csproj.ResolveComReference.cache
+D:\money\cristi\My\yw\nc\admin\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\money\cristi\My\yw\nc\admin\Web\obj\Debug\Web.csproj.CopyComplete
+D:\money\cristi\My\yw\nc\admin\Web\obj\Debug\Web.dll
+D:\money\cristi\My\yw\nc\admin\Web\obj\Debug\Web.pdb
+D:\money\cristi\My\yw\nc\admin\Web\bin\System.Web.Optimization.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\Web.dll.config
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\Web.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\Web.pdb
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\BLL.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\Commons.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\Controls.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\Engine.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\Model.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\NPOI.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\Senparc.Weixin.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\Senparc.Weixin.MP.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\Senparc.Weixin.MP.Sample.CommonService.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\System.Net.Http.Formatting.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\System.Web.Helpers.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\System.Web.Http.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\System.Web.Http.WebHost.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\System.Web.Mvc.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\System.Web.Optimization.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\System.Web.Razor.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\System.Web.WebPages.Deployment.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\System.Web.WebPages.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\System.Web.WebPages.Razor.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\DAL.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\ICSharpCode.SharpZipLib.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\DBHelper.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\BLL.pdb
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\Commons.pdb
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\Controls.pdb
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\Model.pdb
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\Engine.pdb
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\Senparc.Weixin.MP.Sample.CommonService.pdb
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\DAL.pdb
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\obj\Debug\Web.csprojAssemblyReference.cache
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\obj\Debug\Web.csproj.ResolveComReference.cache
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\obj\Debug\Web.csproj.CopyComplete
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\obj\Debug\Web.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\obj\Debug\Web.pdb
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\NPOI.OOXML.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\NPOI.OpenXml4Net.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\NPOI.OpenXmlFormats.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\Interop.CDO.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\admin\Web\bin\Interop.ADODB.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\obj\Debug\Web.csprojAssemblyReference.cache
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\obj\Debug\Web.csproj.ResolveComReference.cache
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\Web.dll.config
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\Web.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\Web.pdb
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\BLL.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\Commons.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\Controls.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\Engine.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\Model.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\NPOI.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\NPOI.OOXML.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\NPOI.OpenXml4Net.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\Senparc.Weixin.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\Senparc.Weixin.MP.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\Senparc.Weixin.MP.Sample.CommonService.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\System.Net.Http.Formatting.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\System.Web.Helpers.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\System.Web.Http.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\System.Web.Http.WebHost.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\System.Web.Mvc.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\System.Web.Optimization.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\System.Web.Razor.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\System.Web.WebPages.Deployment.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\System.Web.WebPages.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\System.Web.WebPages.Razor.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\DAL.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\Interop.CDO.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\Interop.ADODB.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\ICSharpCode.SharpZipLib.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\NPOI.OpenXmlFormats.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\DBHelper.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\BLL.pdb
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\Commons.pdb
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\Controls.pdb
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\Model.pdb
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\Engine.pdb
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\Senparc.Weixin.MP.Sample.CommonService.pdb
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\bin\DAL.pdb
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\obj\Debug\Web.csproj.CopyComplete
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\obj\Debug\Web.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\admin\Web\obj\Debug\Web.pdb
+E:\job\Money\BBS\Web\obj\Debug\Web.csprojAssemblyReference.cache
+E:\job\Money\BBS\Web\obj\Debug\Web.csproj.ResolveComReference.cache
+E:\job\Money\BBS\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+E:\job\Money\BBS\Web\obj\Debug\Web.dll
+E:\job\Money\BBS\Web\obj\Debug\Web.pdb
+E:\job\Money\BBS\Web\bin\Web.dll.config
+E:\job\Money\BBS\Web\bin\Web.dll
+E:\job\Money\BBS\Web\bin\Web.pdb
+E:\job\Money\BBS\Web\bin\BLL.dll
+E:\job\Money\BBS\Web\bin\Commons.dll
+E:\job\Money\BBS\Web\bin\Controls.dll
+E:\job\Money\BBS\Web\bin\Engine.dll
+E:\job\Money\BBS\Web\bin\Microsoft.Web.Infrastructure.dll
+E:\job\Money\BBS\Web\bin\Model.dll
+E:\job\Money\BBS\Web\bin\NPOI.OOXML.dll
+E:\job\Money\BBS\Web\bin\NPOI.OpenXml4Net.dll
+E:\job\Money\BBS\Web\bin\Senparc.Weixin.dll
+E:\job\Money\BBS\Web\bin\Senparc.Weixin.MP.dll
+E:\job\Money\BBS\Web\bin\Senparc.Weixin.MP.Sample.CommonService.dll
+E:\job\Money\BBS\Web\bin\System.Net.Http.Formatting.dll
+E:\job\Money\BBS\Web\bin\System.Web.Helpers.dll
+E:\job\Money\BBS\Web\bin\System.Web.Http.dll
+E:\job\Money\BBS\Web\bin\System.Web.Http.WebHost.dll
+E:\job\Money\BBS\Web\bin\System.Web.Mvc.dll
+E:\job\Money\BBS\Web\bin\System.Web.Optimization.dll
+E:\job\Money\BBS\Web\bin\System.Web.Razor.dll
+E:\job\Money\BBS\Web\bin\System.Web.WebPages.Deployment.dll
+E:\job\Money\BBS\Web\bin\System.Web.WebPages.dll
+E:\job\Money\BBS\Web\bin\System.Web.WebPages.Razor.dll
+E:\job\Money\BBS\Web\bin\DAL.dll
+E:\job\Money\BBS\Web\bin\Interop.CDO.dll
+E:\job\Money\BBS\Web\bin\Interop.ADODB.dll
+E:\job\Money\BBS\Web\bin\ICSharpCode.SharpZipLib.dll
+E:\job\Money\BBS\Web\bin\NPOI.OpenXmlFormats.dll
+E:\job\Money\BBS\Web\bin\DBHelper.dll
+E:\job\Money\BBS\Web\bin\BLL.pdb
+E:\job\Money\BBS\Web\bin\Commons.pdb
+E:\job\Money\BBS\Web\bin\Controls.pdb
+E:\job\Money\BBS\Web\bin\Model.pdb
+E:\job\Money\BBS\Web\bin\Engine.pdb
+E:\job\Money\BBS\Web\bin\Senparc.Weixin.MP.Sample.CommonService.pdb
+E:\job\Money\BBS\Web\bin\System.Net.Http.Formatting.xml
+E:\job\Money\BBS\Web\bin\System.Web.Http.xml
+E:\job\Money\BBS\Web\bin\System.Web.Http.WebHost.xml
+E:\job\Money\BBS\Web\bin\DAL.pdb
+E:\job\Money\BBS\Web\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\job\Money\BBS\Web\bin\zh-Hans\System.Web.Http.resources.dll
+E:\job\Money\BBS\Web\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\job\Money\BBS\Web\obj\Debug\Web.csproj.CopyComplete
+E:\job\Money\CarShop\Web\bin\Web.dll.config
+E:\job\Money\CarShop\Web\bin\Web.dll
+E:\job\Money\CarShop\Web\bin\Web.pdb
+E:\job\Money\CarShop\Web\bin\BLL.dll
+E:\job\Money\CarShop\Web\bin\Commons.dll
+E:\job\Money\CarShop\Web\bin\Controls.dll
+E:\job\Money\CarShop\Web\bin\Engine.dll
+E:\job\Money\CarShop\Web\bin\Microsoft.Web.Infrastructure.dll
+E:\job\Money\CarShop\Web\bin\Model.dll
+E:\job\Money\CarShop\Web\bin\NPOI.OOXML.dll
+E:\job\Money\CarShop\Web\bin\NPOI.OpenXml4Net.dll
+E:\job\Money\CarShop\Web\bin\Senparc.Weixin.dll
+E:\job\Money\CarShop\Web\bin\Senparc.Weixin.MP.dll
+E:\job\Money\CarShop\Web\bin\Senparc.Weixin.MP.Sample.CommonService.dll
+E:\job\Money\CarShop\Web\bin\System.Net.Http.Formatting.dll
+E:\job\Money\CarShop\Web\bin\System.Web.Helpers.dll
+E:\job\Money\CarShop\Web\bin\System.Web.Http.dll
+E:\job\Money\CarShop\Web\bin\System.Web.Http.WebHost.dll
+E:\job\Money\CarShop\Web\bin\System.Web.Mvc.dll
+E:\job\Money\CarShop\Web\bin\System.Web.Optimization.dll
+E:\job\Money\CarShop\Web\bin\System.Web.Razor.dll
+E:\job\Money\CarShop\Web\bin\System.Web.WebPages.Deployment.dll
+E:\job\Money\CarShop\Web\bin\System.Web.WebPages.dll
+E:\job\Money\CarShop\Web\bin\System.Web.WebPages.Razor.dll
+E:\job\Money\CarShop\Web\bin\DAL.dll
+E:\job\Money\CarShop\Web\bin\Interop.CDO.dll
+E:\job\Money\CarShop\Web\bin\Interop.ADODB.dll
+E:\job\Money\CarShop\Web\bin\ICSharpCode.SharpZipLib.dll
+E:\job\Money\CarShop\Web\bin\NPOI.OpenXmlFormats.dll
+E:\job\Money\CarShop\Web\bin\DBHelper.dll
+E:\job\Money\CarShop\Web\bin\BLL.pdb
+E:\job\Money\CarShop\Web\bin\Commons.pdb
+E:\job\Money\CarShop\Web\bin\Controls.pdb
+E:\job\Money\CarShop\Web\bin\Model.pdb
+E:\job\Money\CarShop\Web\bin\Engine.pdb
+E:\job\Money\CarShop\Web\bin\Senparc.Weixin.MP.Sample.CommonService.pdb
+E:\job\Money\CarShop\Web\bin\System.Net.Http.Formatting.xml
+E:\job\Money\CarShop\Web\bin\System.Web.Http.xml
+E:\job\Money\CarShop\Web\bin\System.Web.Http.WebHost.xml
+E:\job\Money\CarShop\Web\bin\DAL.pdb
+E:\job\Money\CarShop\Web\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\job\Money\CarShop\Web\bin\zh-Hans\System.Web.Http.resources.dll
+E:\job\Money\CarShop\Web\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\job\Money\CarShop\Web\obj\Debug\Web.csprojAssemblyReference.cache
+E:\job\Money\CarShop\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+E:\job\Money\CarShop\Web\obj\Debug\Web.csproj.CopyComplete
+E:\job\Money\CarShop\Web\obj\Debug\Web.dll
+E:\job\Money\CarShop\Web\obj\Debug\Web.pdb
+E:\job\Money\CarShop\Web\bin\NPOI.dll
+E:\job\Money\CarShop\Web\bin\DBHelper.pdb
+E:\job\Money\TouNaoFengBao\Web\bin\Web.dll.config
+E:\job\Money\TouNaoFengBao\Web\bin\Web.dll
+E:\job\Money\TouNaoFengBao\Web\bin\Web.pdb
+E:\job\Money\TouNaoFengBao\Web\bin\BLL.dll
+E:\job\Money\TouNaoFengBao\Web\bin\Commons.dll
+E:\job\Money\TouNaoFengBao\Web\bin\Controls.dll
+E:\job\Money\TouNaoFengBao\Web\bin\Engine.dll
+E:\job\Money\TouNaoFengBao\Web\bin\Microsoft.Web.Infrastructure.dll
+E:\job\Money\TouNaoFengBao\Web\bin\Model.dll
+E:\job\Money\TouNaoFengBao\Web\bin\NPOI.dll
+E:\job\Money\TouNaoFengBao\Web\bin\NPOI.OOXML.dll
+E:\job\Money\TouNaoFengBao\Web\bin\NPOI.OpenXml4Net.dll
+E:\job\Money\TouNaoFengBao\Web\bin\Senparc.Weixin.dll
+E:\job\Money\TouNaoFengBao\Web\bin\Senparc.Weixin.MP.dll
+E:\job\Money\TouNaoFengBao\Web\bin\System.Net.Http.Formatting.dll
+E:\job\Money\TouNaoFengBao\Web\bin\System.Web.Helpers.dll
+E:\job\Money\TouNaoFengBao\Web\bin\System.Web.Http.dll
+E:\job\Money\TouNaoFengBao\Web\bin\System.Web.Http.WebHost.dll
+E:\job\Money\TouNaoFengBao\Web\bin\System.Web.Mvc.dll
+E:\job\Money\TouNaoFengBao\Web\bin\System.Web.Optimization.dll
+E:\job\Money\TouNaoFengBao\Web\bin\System.Web.Razor.dll
+E:\job\Money\TouNaoFengBao\Web\bin\System.Web.WebPages.Deployment.dll
+E:\job\Money\TouNaoFengBao\Web\bin\System.Web.WebPages.dll
+E:\job\Money\TouNaoFengBao\Web\bin\System.Web.WebPages.Razor.dll
+E:\job\Money\TouNaoFengBao\Web\bin\DAL.dll
+E:\job\Money\TouNaoFengBao\Web\bin\Interop.CDO.dll
+E:\job\Money\TouNaoFengBao\Web\bin\Interop.ADODB.dll
+E:\job\Money\TouNaoFengBao\Web\bin\ICSharpCode.SharpZipLib.dll
+E:\job\Money\TouNaoFengBao\Web\bin\NPOI.OpenXmlFormats.dll
+E:\job\Money\TouNaoFengBao\Web\bin\DBHelper.dll
+E:\job\Money\TouNaoFengBao\Web\bin\BLL.pdb
+E:\job\Money\TouNaoFengBao\Web\bin\Commons.pdb
+E:\job\Money\TouNaoFengBao\Web\bin\Controls.pdb
+E:\job\Money\TouNaoFengBao\Web\bin\Model.pdb
+E:\job\Money\TouNaoFengBao\Web\bin\Engine.pdb
+E:\job\Money\TouNaoFengBao\Web\bin\System.Net.Http.Formatting.xml
+E:\job\Money\TouNaoFengBao\Web\bin\System.Web.Http.xml
+E:\job\Money\TouNaoFengBao\Web\bin\System.Web.Http.WebHost.xml
+E:\job\Money\TouNaoFengBao\Web\bin\DAL.pdb
+E:\job\Money\TouNaoFengBao\Web\bin\DBHelper.pdb
+E:\job\Money\TouNaoFengBao\Web\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\job\Money\TouNaoFengBao\Web\bin\zh-Hans\System.Web.Http.resources.dll
+E:\job\Money\TouNaoFengBao\Web\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\job\Money\TouNaoFengBao\Web\obj\Debug\Web.csprojAssemblyReference.cache
+E:\job\Money\TouNaoFengBao\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+E:\job\Money\TouNaoFengBao\Web\obj\Debug\Web.csproj.CopyComplete
+E:\job\Money\TouNaoFengBao\Web\obj\Debug\Web.dll
+E:\job\Money\TouNaoFengBao\Web\obj\Debug\Web.pdb
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\Web.dll.config
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\Web.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\Web.pdb
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\BLL.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\Commons.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\Controls.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\Engine.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\Microsoft.Web.Infrastructure.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\Model.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\NPOI.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\NPOI.OOXML.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\NPOI.OpenXml4Net.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\Senparc.Weixin.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\Senparc.Weixin.MP.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\System.Net.Http.Formatting.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\System.Web.Helpers.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\System.Web.Http.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\System.Web.Http.WebHost.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\System.Web.Mvc.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\System.Web.Optimization.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\System.Web.Razor.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\System.Web.WebPages.Deployment.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\System.Web.WebPages.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\System.Web.WebPages.Razor.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\DAL.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\Interop.CDO.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\Interop.ADODB.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\ICSharpCode.SharpZipLib.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\NPOI.OpenXmlFormats.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\DBHelper.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\BLL.pdb
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\Commons.pdb
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\Controls.pdb
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\Model.pdb
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\Engine.pdb
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\Microsoft.Web.Infrastructure.xml
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\System.Net.Http.Formatting.xml
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\System.Web.Http.xml
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\System.Web.Http.WebHost.xml
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\DAL.pdb
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\DBHelper.pdb
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\zh-Hans\System.Web.Http.resources.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\obj\Debug\Web.csprojAssemblyReference.cache
+E:\job\Money\TouNaoFengBao - 副本\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+E:\job\Money\TouNaoFengBao - 副本\Web\obj\Debug\Web.csproj.CopyComplete
+E:\job\Money\TouNaoFengBao - 副本\Web\obj\Debug\Web.dll
+E:\job\Money\TouNaoFengBao - 副本\Web\obj\Debug\Web.pdb
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\Web.dll.config
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\Web.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\Web.pdb
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\BLL.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\Commons.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\Controls.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\Engine.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\Model.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\NPOI.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\Senparc.Weixin.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\Senparc.Weixin.MP.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\DAL.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\Interop.CDO.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\Interop.ADODB.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\DBHelper.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\BLL.pdb
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\Commons.pdb
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\Controls.pdb
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\Model.pdb
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\Engine.pdb
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\System.Web.Http.xml
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\DAL.pdb
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\DBHelper.pdb
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\obj\Debug\Web.csproj.CopyComplete
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\obj\Debug\Web.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\Web\obj\Debug\Web.pdb

@@ -1,0 +1,46 @@
+.theme-container{
+  /* display: flex; */
+  /* flex-direction: column; */
+  width: 312rpx;
+  height: 400rpx;
+  background-color:white;
+  border-radius: 15rpx;
+}
+.theme{
+  /* 文字水平居中 */
+  text-align: center;
+  /* width: 300rpx; */
+  height: 100rpx;
+  padding-top: 20rpx;
+  /* 文字垂直居中，数值与height相同 */
+  /* line-height: 110rpx; */
+}
+.theme:after{
+  content: " ";
+  display: inline-block;
+  width: 90%;
+  
+  /* border-width: 1rpx 1rpx 0 0; */
+  /* border-color: #d0d0d0fd; */
+  /* border-style: solid; */
+  /* height: 1rpx; */
+  border-top: 1rpx solid rgb(253, 178, 0);
+}
+.themeText{
+  
+  /* vertical-align: middle; */
+  font-size: 35rpx;
+}
+.remark{
+  line-height: 45rpx;
+  /* text-align: center; */
+  padding: 40rpx 25rpx;
+  height: 290rpx;
+  /* background-color: #0ff; */
+  
+  
+}
+.remarkText{
+  font-size: 25rpx;
+  /* vertical-align: middle; */
+}

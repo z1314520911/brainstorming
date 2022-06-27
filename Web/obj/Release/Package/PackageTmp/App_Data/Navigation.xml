@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NewDataSet>
+  <Main Name="业务管理" Action="Index" Controller="Model" Table="About">
+    <Minor Name="销售数据" ID="90" Action="Index" Controller="T_Order" Table="" Other="ListFxs" />
+    <Minor Name="商品管理" ID="13" Action="Index" Controller="Model" Table="T_Goods"/>
+    <Minor Name="单品订单管理" ID="25" Action="OrderList" Controller="T_Order" Table="" Other="ChOrderStauts,OrderListExport,T_ReFund★ByDetailId,TgOrderList,T_TgShip,ChangeExpress,ChangePrice,ChangeAddress,UpLogistics" />
+    <Minor Name="佣金提现申请" ID="95" Action="Index" Controller="Model" Table="T_CommissionWithdraw" Other="CW★ByDetailId" />
+    <Minor Name="团购订单管理" ID="26" Action="TgList" Controller="T_Order" Table="" Other="" />
+    <Minor Name="常见问题管理" ID="28" Action="Index" Controller="Model" Table="T_Question"/>
+    <Minor Name="团购发货管理" ID="27" Action="Index" Controller="Model" Table="T_TgShip" NotShow="1" />
+    <Minor Name="退款申请" ID="97" Action="Index" Controller="Model" Table="T_ReFund" NotShow="1" />
+    <Minor Name="退款审批" ID="96" Action="Index" Controller="Model" Table="T_ReFund★ByDetailId" NotShow="1" />
+    <Minor Name="商品拼团" ID="39" Action="Index" Controller="Model" Table="T_GoodsAssemble" NotShow="1" />
+    <Minor Name="秒杀商品" ID="40" Action="Index" Controller="Model" Table="T_GoodsSecKill" NotShow="1" />
+    <Minor Name="规格Key" ID="66" Action="Index" Controller="Model" Table="T_AttributesKey" NotShow="1" />
+    <Minor Name="规格Value" ID="67" Action="Index" Controller="Model" Table="T_AttributesValue" NotShow="1" />
+    <Minor Name="商品规格" ID="68" Action="Attr" Controller="T_Goods" Table="" NotShow="1" />
+    <Minor Name="商品规格" ID="69" Action="SaveAttr" Controller="T_Goods" Table="" NotShow="1" />
+  </Main>
+  <Main Name="配置管理" Action="Index" Controller="Model" Table="About">
+    <Minor Name="键值管理" ID="100" Action="Index" Controller="Model" Table="T_Key"/>
+    <Minor Name="轮播图管理" ID="12" Action="Index" Controller="Model" Table="T_Ad"/>
+    <Minor Name="资金流动" ID="52" Action="Index" Controller="Model" Table="T_PayLog"/>
+    <Minor Name="参数管理" ID="60" Action="Index" Controller="Model" Table="T_SysPara"/>
+    <Minor Name="社区管理" ID="61" Action="Index" Controller="Model" Table="T_CommunityInfo" Other="T_CommunityHead" />
+    <Minor Name="团长审核" ID="63" Action="Index" Controller="Model" Table="T_CommunityHeadApply" />
+    <Minor Name="团长管理" ID="62" Action="Index" Controller="Model" Table="T_CommunityHead" NotShow="1" />
+    <Minor Name="物流公司" ID="50" Action="Index" Controller="Model" Table="T_Logistics" />
+    <Minor Name="运单导入" ID="51" Action="ExpressUpload" Controller="T_Order" Table="" NotShow="1" Other="" />
+    <Minor Name="运费管理" ID="56" Action="Index" Controller="Model" Table="T_Distribution" />
+    <Minor Name="加价区域" ID="57" Action="Index" Controller="Model" Table="T_DistributionAddPrice" NotShow="1" />
+    <Minor Name="特殊区域" ID="58" Action="Index" Controller="Model" Table="T_DistributionAreaSet" NotShow="1" />
+    <Minor Name="分销商审核" ID="59" Action="Index" Controller="Model" Table="T_DistributorApply" />
+    <Minor Name="商品标签管理" ID="14" Action="Index" Controller="Model" Table="T_GoodsAttr" NotShow="1" />
+  </Main>
+  <Main Name="会员管理" Action="Index" Controller="Model" Table="About">
+    <Minor Name="用户管理" ID="20" Action="Index" Controller="Model" Table="T_User"/>
+    <Minor Name="优惠券管理" ID="21" Action="Index" Controller="Model" Table="T_Coupon" Other="CreateQRCode"/>
+    <Minor Name="充值优惠券" ID="22" Action="Index" Controller="Model" Table="T_Recharge"/>
+    <Minor Name="优惠券关联管理" ID="23" Action="Index" Controller="Model" Table="T_CouponRecharge" NotShow="1" />
+    <Minor Name="会员级别" ID="55" Action="Index" Controller="Model" Table="T_Level"/>
+    <Minor Name="短信记录" ID="30" Action="Index" Controller="Model" Table="T_SMSRecord"/>
+    <Minor Name="在线充值" ID="31" Action="Index" Controller="Model"  Table="T_OnlineRecharge"/>
+    <Minor Name="后台充值" ID="32" Action="Index" Controller="Model" Table="T_AdminRecharge" Other="T_User"/>
+  </Main>
+  <Main Name="网站设置" Action="Index" Controller="Model" Table="AdminUser">
+    <Minor Name="网站管理员" ID="1" Action="Index" Controller="Model" Table="AdminUser"/>
+    <Minor Name="角色管理" ID="2" Action="Index" Controller="Model" Table="T_Role" Other="GetRole"/>
+    <Minor Name="网站信息设置" ID="3" Action="Index" Controller="Config" Table=""/>
+    <Minor Name="邮箱设置" ID="4" Action="Email" Controller="Config" Table=""/>
+    <Minor Name="模板通知" ID="5" Action="Send" Controller="Notice" Table=""/>
+    <Minor Name="微信导航设置" ID="6" Action="Index" Controller="Menu" Other="GetToken,GetMenu,DeleteMenu,CreateMenu" Table=""/>
+    <Minor Name="城市管理" ID="98" Action="Index" Controller="Model" Table="T_City" Other="GetCity,Map" NotShow="1" />
+    <Minor Name="图片管理" ID="99" Action="Index" Controller="Model" Table="T_Gallery" NotShow="1" />
+  </Main>
+</NewDataSet>

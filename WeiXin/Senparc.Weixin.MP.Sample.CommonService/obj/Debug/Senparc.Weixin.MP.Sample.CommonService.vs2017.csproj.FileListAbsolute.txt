@@ -1,0 +1,2 @@
+D:\money\cristi\My\yw\nc\web\WeiXin\Senparc.Weixin.MP.Sample.CommonService\obj\Debug\Senparc.Weixin.MP.Sample.CommonService.vs2017.csproj.CoreCompileInputs.cache
+D:\money\cristi\My\yw\nc\web\WeiXin\Senparc.Weixin.MP.Sample.CommonService\obj\Debug\Senparc.Weixin.MP.Sample.CommonService.vs2017.csprojAssemblyReference.cache

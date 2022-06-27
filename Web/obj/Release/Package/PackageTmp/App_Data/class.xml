@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NewDataSet>
+  <object Type="About" Name="玩客币介绍" Url="about,honor" PageCode="Cn" Belongs="About" />
+  <object Type="Products" Name="Trade variety" Url="products,product" PageCode="Cn" Belongs="Product" />
+  <object Type="News" Name="新闻动态" Url="news,article" PageCode="Cn" Belongs="News" />
+  <object Type="Honor" Name="Honor" Url="null" PageCode="Cn" Belongs="Honor" />
+  <object Type="Information" Name="Information" Url="null" PageCode="Cn" Belongs="Block" />
+</NewDataSet>

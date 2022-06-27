@@ -1,0 +1,209 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>后台管理系统</title>
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="/content/layui/css/layui.css" media="all">
+    <link rel="stylesheet" href="/content/layui/build/css/app.css" media="all">
+    <script src="/content/layui/layui.js"></script>
+    <script type="text/javascript" src="/Content/ueditor/third-party/jquery-1.10.2.min.js"></script>
+</head>
+
+<body>
+    <fieldset class="layui-elem-field layui-field-title"><legend>网站信息设置</legend></fieldset>
+    <div class="site-text site-block">
+        <form action="/Admin/T_Poster/Index.aspx?Languages=Cn" class="layui-form" enctype="multipart/form-data" method="post">
+            <style type="text/css">
+                h1, h2, h3 {
+                    text-align: center
+                }
+
+                .box {
+                    position: relative;
+                    background: #fa0;
+                    border-radius: 10px;
+                    z-index: 10;
+                    margin: 0 auto;
+                }
+
+                .box:hover {
+                    cursor: move;
+                }
+
+                .box.is-pointer-down {
+                    background: #09F;
+                }
+
+                .box.is-dragging {
+                    opacity: 0.7;
+                }
+
+                .box-1 {
+                    width: 150px;
+                    height: 150px;
+                }
+
+                .box-2 {
+                    width: 200px;
+                    height: 100px;
+                }
+
+                .box-3 {
+                    width: 150px;
+                    height: 150px;
+                }
+
+                .box-4 {
+                    width: 150px;
+                    height: 150px;
+                    padding: 20px;
+                }
+
+                .total-centered {
+                    position: absolute;
+                    width: 100%;
+                    top: 50%;
+                    text-align: center;
+                    -webkit-transform: translateY(-50%);
+                    -moz-transform: translateY(-50%);
+                    -ms-transform: translateY(-50%);
+                    -o-transform: translateY(-50%);
+                    transform: translateY(-50%);
+                }
+
+                .container {
+                    padding: 10px;
+                    border: 5px solid #F90;
+                    width: 800px;
+                    height: 200px;
+                    border-radius: 10px;
+                    margin: 0 auto;
+                }
+
+                .draggable {
+                    width: 140px;
+                    height: 140px;
+                    background: #F90;
+                    border-radius: 10px;
+                    margin: 0 10px 10px 0;
+                    float: left;
+                }
+
+                .draggable.is-pointer-down {
+                    background: #09F;
+                    z-index: 12; /* above other draggies */
+                }
+
+                .handle {
+                    background: #555;
+                    background: hsla(0, 0%, 0%, 0.4);
+                    width: 60px;
+                    height: 60px;
+                    border-radius: 5px;
+                }
+            </style>
+
+            <article class="htmleaf-container">
+                <header class="htmleaf-header">
+                    <h1>拖动插件</h1>
+                </header>
+                <div class="demo demo--events">
+                    <div class="demo__positioner">
+                        <pre><code>
+
+
+</code></pre>
+                    </div>
+                </div>
+                <div class="htmleaf-content">
+                    <h3>可以任意拖动。</h3>
+                    <div class="box box-1" id="draggable1">
+                        <div class="total-centered">Drap me</div>
+                    </div>
+                    <h3>只能在X轴上拖动。</h3>
+                    <div class="box box-2" id="draggable2">
+                        <div class="total-centered">axis:'x'</div>
+                    </div>
+                    <h3>只能在父容器中移动。</h3>
+                    <div class="container">
+                        <div class="draggable"></div>
+                        <div class="draggable"></div>
+                        <div class="draggable"></div>
+                    </div>
+                    <h3>以网格的方式拖动。</h3>
+                    <div class="box box-3" id="draggable3"><div class="total-centered">grid[x,y]</div></div>
+                    <h3>指定拖动交互元素(只有内部小方块区域可以进行拖动)。</h3>
+                    <div class="box box-4" id="draggable4">
+                        <div class="handle"></div>
+                    </div>
+                </div>
+
+            </article>
+
+
+        </form>
+    </div>
+
+
+    <script type="text/javascript" src="/Content/draggabilly/draggabilly.pkgd.min.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            $('#draggable1').draggabilly();
+            $('#draggable2').draggabilly({
+                axis: 'x'
+            });
+            $('.draggable').draggabilly({ containment: true });
+            $('#draggable3').draggabilly({ grid: [100, 100] });
+            $('#draggable4').draggabilly({ handle: '.handle' });
+        });
+
+        (function () {
+            var demo = document.querySelector('.demo--events');
+            //var elem = demo.querySelector('.draggable');
+            var elem = document.querySelector('.draggable');
+            var draggie = new Draggabilly(elem);
+            var output = demo.querySelector('code');
+
+            function notify(dragEvent, draggieInstance, event, pointer) {
+                var position = draggieInstance.position;
+                var message = dragEvent + '\n' +
+                    event.type + ' at ' + pointer.pageX + ', ' + pointer.pageY + '\n' +
+                    'draggie position at ' + position.x + ', ' + position.y;
+                output.textContent = message;
+            }
+            function listener(/* 参数 */) {
+                // 获取拖拽元素实例
+                var draggie = $(this).data('draggabilly');
+                console.log('eventName happened', draggie.position.x, draggie.position.y);
+            }
+
+            draggie.on('pointerDown', function (event, pointer) {
+                notify('pointerDown', this, event, pointer);
+            });
+
+            draggie.on('dragStart', function (event, pointer) {
+                notify('dragStart', this, event, pointer);
+            });
+
+            draggie.on('dragMove', function (event, pointer) {
+                notify('dragMove', this, event, pointer);
+            });
+
+            draggie.on('dragEnd', function (event, pointer) {
+                notify('dragEnd', this, event, pointer);
+            });
+
+            draggie.on('staticClick', function (event, pointer) {
+                notify('staticClick', this, event, pointer);
+            });
+
+        })();
+    </script>
+
+
+</body>
+</html>

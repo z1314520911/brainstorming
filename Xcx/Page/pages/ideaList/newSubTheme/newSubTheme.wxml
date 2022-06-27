@@ -1,0 +1,21 @@
+<!--miniprogram/pages/ideaList/newSubTheme/newSubTheme.wxml-->
+<view class='container'>
+  <view class='themeInfo'>
+    <view class='theme'>
+      <text>{{secondTheme}}</text>
+    </view>
+    <view class='idea'>
+      <!-- <text>{{firstTheme}}/{{secondTheme}}</text> -->
+      <text>{{gradation}}</text>
+    </view>
+  </view>
+  <view class='remark'>
+    <text>备注</text>
+    <textarea bindinput='getRemark'></textarea>
+  </view>
+  <button type="primary" plain="true" bindtap='onFinished'>完成</button>
+  <!-- <view class='remark'>
+    <textarea placeholder='子主题备注'></textarea>
+    <button>完成</button>
+  </view> -->
+</view>

@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4FFF963C-47A5-4C06-9858-CA619EC62409}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Xcx</RootNamespace>
+    <AssemblyName>Xcx</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Page\app.js" />
+    <Content Include="Page\images\home-active.png" />
+    <Content Include="Page\images\home.png" />
+    <Content Include="Page\images\invite_friends.png" />
+    <Content Include="Page\images\more_icon.png" />
+    <Content Include="Page\images\new_theme.png" />
+    <Content Include="Page\images\user-active.png" />
+    <Content Include="Page\images\user-unlogin.png" />
+    <Content Include="Page\images\user.png" />
+    <Content Include="Page\pages\ideaList\ideaDetails\ideaDetails.js" />
+    <Content Include="Page\pages\ideaList\ideaList.js" />
+    <Content Include="Page\pages\ideaList\newSubTheme\newSubTheme.js" />
+    <Content Include="Page\pages\img\img.js" />
+    <Content Include="Page\pages\indexBackup\index.js" />
+    <Content Include="Page\pages\indexBackup\user-unlogin.png" />
+    <Content Include="Page\pages\login\login.js" />
+    <Content Include="Page\pages\newTheme\newTheme.js" />
+    <Content Include="Page\pages\themeDetails\themeIdea.js" />
+    <Content Include="Page\pages\themeDetails\themeDetails.js" />
+    <Content Include="Page\pages\themes\themes.js" />
+    <Content Include="Page\utils\url.js" />
+    <Content Include="Page\utils\util.js" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Page\app.json" />
+    <None Include="Page\app.wxss" />
+    <None Include="Page\lib\iconfont.wxss" />
+    <None Include="Page\pages\ideaList\ideaDetails\ideaDetails.json" />
+    <None Include="Page\pages\ideaList\ideaDetails\ideaDetails.wxml" />
+    <None Include="Page\pages\ideaList\ideaDetails\ideaDetails.wxss" />
+    <None Include="Page\pages\ideaList\ideaList.json" />
+    <None Include="Page\pages\ideaList\ideaList.wxml" />
+    <None Include="Page\pages\ideaList\ideaList.wxss" />
+    <None Include="Page\pages\ideaList\idea\idea-template.wxml" />
+    <None Include="Page\pages\ideaList\idea\idea-template.wxss" />
+    <None Include="Page\pages\ideaList\newSubTheme\newSubTheme.json" />
+    <None Include="Page\pages\ideaList\newSubTheme\newSubTheme.wxml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Page\pages\ideaList\newSubTheme\newSubTheme.wxss" />
+    <None Include="Page\pages\img\img.json" />
+    <None Include="Page\pages\img\img.wxml" />
+    <None Include="Page\pages\img\img.wxss" />
+    <None Include="Page\pages\indexBackup\index.json" />
+    <None Include="Page\pages\indexBackup\index.wxml" />
+    <None Include="Page\pages\indexBackup\index.wxss" />
+    <None Include="Page\pages\login\login.json" />
+    <None Include="Page\pages\login\login.wxml" />
+    <None Include="Page\pages\login\login.wxss" />
+    <None Include="Page\pages\newTheme\newTheme.json" />
+    <None Include="Page\pages\newTheme\newTheme.wxml" />
+    <None Include="Page\pages\newTheme\newTheme.wxss" />
+    <None Include="Page\pages\themeDetails\themeIdea.json" />
+    <None Include="Page\pages\themeDetails\themeIdea.wxml" />
+    <None Include="Page\pages\themeDetails\themeIdea.wxss" />
+    <None Include="Page\pages\themeDetails\ideaInfo\ideaInfo-template.wxml" />
+    <None Include="Page\pages\themeDetails\ideaInfo\ideaInfo-template.wxss" />
+    <None Include="Page\pages\themeDetails\themeDetails.json" />
+    <None Include="Page\pages\themeDetails\themeDetails.wxml" />
+    <None Include="Page\pages\themeDetails\themeDetails.wxss" />
+    <None Include="Page\pages\themes\themes.json" />
+    <None Include="Page\pages\themes\themes.wxml" />
+    <None Include="Page\pages\themes\themes.wxss" />
+    <None Include="Page\pages\themes\theme\theme-template.wxml" />
+    <None Include="Page\pages\themes\theme\theme-template.wxss" />
+    <None Include="Page\project.config.json" />
+    <None Include="Page\project.private.config.json" />
+    <None Include="Page\sitemap.json" />
+    <None Include="Page\style\guide.wxss" />
+    <None Include="Page\utils\iconfont.wxss" />
+    <None Include="Page\weui.wxss" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Page\components\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

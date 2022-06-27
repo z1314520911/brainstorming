@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>@Commons.Config.GetKeyValue("WebTitle")</title>
+    <link rel="stylesheet" href="/content/layui/css/layui.css" media="all">
+    <link rel="stylesheet" type="text/css" href="http://www.jq22.com/jquery/font-awesome.4.6.0.css">
+    <link rel="stylesheet" href="/content/layui/build/css/app.css" media="all">
+</head>
+
+<body>
+    <div class="layui-layout layui-layout-admin kit-layout-admin">
+        <div class="layui-header">
+            <div class="layui-logo">@Commons.Config.GetKeyValue("WebTitle")</div>
+            <ul class="layui-nav layui-layout-right kit-nav">
+                <li class="layui-nav-item">
+                    <a href="javascript:;">操作员：@ViewBag.UserName</a>
+                </li>
+                @Html.Raw(ViewBag.LanguagesNav)
+                <li class="layui-nav-item"><a href="@Url.Action("Logout","Main")"><i class="fa fa-sign-out" aria-hidden="true"></i> 注销</a></li>
+            </ul>
+        </div>
+
+        <div class="layui-side layui-bg-black kit-side">
+            <div class="layui-side-scroll">
+                <div class="kit-side-fold"><i class="fa fa-navicon" aria-hidden="true"></i></div>
+                <ul class="layui-nav layui-nav-tree" lay-filter="kitNavbar" kit-navbar>@Html.Raw(ViewBag.Menu)</ul>
+            </div>
+        </div>
+        <div class="layui-body" id="container">
+            @*<div style="padding: 15px;">主体内容加载中,请稍等...</div>*@
+        </div>
+
+    </div>
+    <script src="/content/layui/layui.js"></script>
+    <script>
+        var message;
+        layui.config({
+            base: '/content/layui/build/js/'
+        }).use(['app', 'message'], function () {
+            var app = layui.app,
+                $ = layui.jquery,
+                layer = layui.layer;
+            message = layui.message;
+            app.set({
+                type: 'iframe'
+            }).init();
+        });
+    </script>
+</body>
+
+</html>

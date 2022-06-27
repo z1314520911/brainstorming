@@ -1,0 +1,81 @@
+﻿<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title><%= Commons.Config.GetKeyValue("WebTitle") %></title>
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="stylesheet" href="/content/layui/css/layui.css" media="all">
+    <link rel="stylesheet" href="/content/layui/build/css/app.css" media="all">
+    <script src="/content/layui/layui.js"></script>
+    <script type="text/javascript" src="/Content/ueditor/third-party/jquery-1.10.2.min.js"></script>
+</head>
+
+<body>
+    <%
+        string msg = "";
+        string text = Commons.Common.IsString(ViewData["Text"]);
+        string[] navText = (string[])ViewData["NavText"];
+        string[] navAction = (string[])ViewData["NavAction"];
+        string[] navShow = (string[])ViewData["NavShow"];
+        if (navText != null && navAction != null && navShow != null)
+        {
+            for (int i = 0; i < navText.Length; i++)
+            {
+                if (navShow[i] == "1")
+                {
+                    msg += "<a class=\"layui-btn" + (navAction[i] == ViewContext.RouteData.Values["Action"].ToString() ? "" : " layui-btn-primary") + "\" href=\"" + Url.Action(navAction[i], Commons.Common.routeValues(ViewData["page"], ViewData["KeyWord"], ViewData["list"], ViewData["Table"], ViewData["Languages"], null, null)) + "\">" + navText[i] + "</a>";
+                }
+            }
+        }
+        if (!string.IsNullOrEmpty(msg))
+        {
+            msg = "<div class=\"layui-btn-admin\">" + msg + "</div>";
+        }
+        else
+        {
+            if (!string.IsNullOrEmpty(text))
+            {
+                msg = "<fieldset class=\"layui-elem-field layui-field-title\"><legend>" + text + "</legend></fieldset>";
+            }
+            else
+            {
+                msg = "<div class=\"div_height_10\">" + text + "</div>";
+            }
+        }
+    %>
+    <%=msg + ViewData["NavTextMore"]%>
+    <div class="site-text site-block">
+        <% using (Html.BeginForm(ViewContext.RouteData.Values["Action"].ToString(), ViewContext.RouteData.Values["controller"].ToString(), Commons.Common.routeValues(ViewData["page"], ViewData["KeyWord"], ViewData["list"], ViewData["Table"], ViewData["Languages"], ViewData["Id"], null), FormMethod.Post, new { enctype = "multipart/form-data",@class="layui-form" }))
+           {%>
+        <%if (ViewContext.RouteData.Values["Action"].ToString() == "Index" && ViewData["showSearch"]==null)
+          { %>
+        <blockquote class="layui-elem-quote layui-quote-nm layui-elem-quote-admin">
+            请输入关键字：<input type="text" class="layui-input" id="keyword" name="keyword" value="<%:ViewData["TxtKeyWord"] %>" /> <%=ViewData["otherSearch"] %>
+            <input type="submit" class="layui-btn" value="查询" onclick='this.form.action="<%=Url.Action("Index",Commons.Common.routeValues(ViewData["page"], ViewData["KeyWord"], ViewData["list"], ViewData["Table"], ViewData["Languages"], null, "Search")) %>";' />
+        <%
+        if (ViewData["upExcel"] != null)
+        {
+            string url = ViewData["upExcel"].ToString();
+            if (!string.IsNullOrEmpty(url))
+            {
+        %>
+    <script type="text/javascript" src="/Content/admin/js/axios.min.js"></script>
+    <script type="text/javascript" src="/Content/admin/js/view/upExcel.js?t=<%= Commons.Config.GetKeyValue("version") %>.1"></script>
+            <input name="filename" id="myxls" type="file" style="width:150px;" />
+            <input type="button" class="layui-btn" value="导入" onclick="UpExcel('<%=url%>');" />
+        <%
+            }            
+        }
+        %>
+        </blockquote>
+        <%}else{ %><%=ViewData["otherSearch"] %><%} %>
+        <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        <%} %>
+        <%=ViewData["msg"] %>
+    </div>
+    <asp:ContentPlaceHolder ID="FooterContent" runat="server" />
+</body>
+</html>

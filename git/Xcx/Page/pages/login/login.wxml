@@ -1,0 +1,22 @@
+
+<loading hidden="{{loadingHidden}}">加载中...</loading>
+
+<view wx:if="{{canIUse}}">
+  <view class="container">
+    <view class="wechatapp">
+      <!-- <image class="header" src="/images/wechatapp.png"></image> -->
+      <view class="header">
+        <open-data class="" type="userAvatarUrl"></open-data>
+      </view>
+    </view>
+    <view class="auth-title">申请获取以下权限</view>
+    <view class="auth-subtitle">获得你的公开信息（昵称、头像等）</view>
+    <button class="login-btn" wx:if="{{canIUseGetUserProfile}}" lang="zh_CN" bindtap="bindGetUserProfile">{{info}}授权登录</button>
+    <button class="login-btn" wx:else open-type="getUserInfo" lang="zh_CN" bindgetuserinfo="bindGetUserInfo">{{info}}授权登录</button>
+    <!-- <button class="login-btn" openType="getUserInfo" lang="zh_CN" bindgetuserinfo="bindGetUserInfo">{{info}}授权登录</button> -->
+    
+    <button class="login-close" lang="zh_CN" bindtap="loginClose">取消登录</button>
+  </view>
+</view>
+
+  <view wx:else>请升级微信版本</view>

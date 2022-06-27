@@ -1,0 +1,11 @@
+﻿header .header-main .vote-info {background:#efa300;}
+header .header-main .do-apply { background: #efa300; }
+.search-user .search-btn{background:#efa300;height:100%;width:20%;border:none;color:#fff;font-size:16px;font-family:'微软雅黑';}
+.user-list .user .vote-btn{background:#efa300;color:#fff;width:100%;height:2.4rem;line-height:2.4rem;text-align:center;border:none;position:absolute;bottom:0;}
+.user-list .user .number { background: #efa300; }
+footer .footer-nav .active { background: #ff6a6a; color: #fff; }
+
+.background { background: #efa300; }
+
+.detail-votebtn .dotoupiao { background: #efa300; }
+.apply-btn {  background: #efa300; color: #fff; }

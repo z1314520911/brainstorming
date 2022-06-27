@@ -1,0 +1,18 @@
+E:\job\Money\CarShop\Xcx\bin\Debug\Xcx.dll
+E:\job\Money\CarShop\Xcx\bin\Debug\Xcx.pdb
+E:\job\Money\CarShop\Xcx\obj\Debug\Xcx.csproj.CoreCompileInputs.cache
+E:\job\Money\CarShop\Xcx\obj\Debug\Xcx.dll
+E:\job\Money\CarShop\Xcx\obj\Debug\Xcx.pdb
+E:\job\Money\CarShop\Xcx\obj\Debug\Xcx.csprojAssemblyReference.cache
+E:\job\Money\TouNaoFengBao\Xcx\bin\Debug\Xcx.dll
+E:\job\Money\TouNaoFengBao\Xcx\bin\Debug\Xcx.pdb
+E:\job\Money\TouNaoFengBao\Xcx\obj\Debug\Xcx.csprojAssemblyReference.cache
+E:\job\Money\TouNaoFengBao\Xcx\obj\Debug\Xcx.csproj.CoreCompileInputs.cache
+E:\job\Money\TouNaoFengBao\Xcx\obj\Debug\Xcx.dll
+E:\job\Money\TouNaoFengBao\Xcx\obj\Debug\Xcx.pdb
+E:\job\Money\TouNaoFengBao - 副本\Xcx\bin\Debug\Xcx.dll
+E:\job\Money\TouNaoFengBao - 副本\Xcx\bin\Debug\Xcx.pdb
+E:\job\Money\TouNaoFengBao - 副本\Xcx\obj\Debug\Xcx.csprojAssemblyReference.cache
+E:\job\Money\TouNaoFengBao - 副本\Xcx\obj\Debug\Xcx.csproj.CoreCompileInputs.cache
+E:\job\Money\TouNaoFengBao - 副本\Xcx\obj\Debug\Xcx.dll
+E:\job\Money\TouNaoFengBao - 副本\Xcx\obj\Debug\Xcx.pdb

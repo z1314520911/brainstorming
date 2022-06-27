@@ -1,0 +1,76 @@
+<view class="page">
+  <view class="weui-form">
+    <view class="weui-form__text-area">
+      <h2 class="weui-form__title">{{info.Name}}</h2>
+    </view>
+    <view class="weui-form__control-area">
+      <view class="weui-cells__group weui-cells__group_form">
+        <view class="weui-cells">
+
+          <view class="weui-cell weui-cell_active">
+            <view class="weui-cell__hd">
+              <label class="weui-label">房间号：</label>
+            </view>
+            <view class="weui-cell__bd">
+              {{info.Room}}
+            </view>
+          </view>
+          <view class="weui-cell weui-cell_active">
+            <view class="weui-cell__hd">
+              <label class="weui-label">主持人</label>
+            </view>
+            <view class="weui-cell__bd">
+              {{NickName}}
+            </view>
+          </view>
+          <view class="weui-cell weui-cell_active" wx:if="{{!IsStart}}">
+            <view class="weui-cell__hd">
+              <label class="weui-label">参与者</label>
+            </view>
+            <view class="weui-cell__bd">
+
+              <view class="weui-uploader">
+                <view class="weui-uploader__bd">
+                  <block wx:for="{{ItemList}}" wx:key="*this">
+                    <view class="weui-uploader__file">
+                      <image class="weui-uploader__img" src="{{item.Avatar}}" mode="aspectFill" />
+                    </view>
+                  </block>
+                  <!-- <view class="weui-uploader__input-box">
+                    <view aria-role="button" class="weui-uploader__input" bindtap=""></view>
+                  </view> -->
+                </view>
+              </view>
+            </view>
+          </view>
+          <block wx:else>
+            <block wx:for="{{ItemList}}" wx:key="*this">
+              <view class="weui-cell weui-cell3">
+
+                <view class="weui-flex">
+                  <view class="">
+                    <image class="img" src="{{item.Avatar}}" mode="aspectFill" />
+                  </view>
+                  <view>{{item.NickName}}</view>
+                </view>
+
+              </view>
+              <view class="weui-cell weui-cell2">
+                <view class="weui-flex__item" wx:for="{{item.Item}}">
+                  <view class="placeholder"><view class="dz"><text class="iconfont {{item.IsLike?'icon-xihuanfill':'icon-xihuan'}} t-l" data-id="{{item.Id}}" bindtap="dianzan"></text><text class="t-r f-26">{{item.Num}}</text></view>{{item.Idea}}</view>
+                </view>
+              </view>
+            </block>
+          </block>
+        </view>
+      </view>
+    </view>
+    <view class="weui-form__opr-area">
+      <a aria-role="button" class="weui-btn weui-btn_primary" bindtap="IsStart" wx:if="{{IsOwn&&!IsStart}}">开始</a>
+      <navigator url="themeIdea?id={{id}}" class="weui-btn weui-btn_primary" wx:if="{{!IsFinish&&IsStart&&IsJoin}}" hover-class="none">发布观点</navigator>
+      <!-- <button open-type="share" hover-class="none" class="weui-btn weui-btn_default weui-btn_loading">邀请好友</button> -->
+      <a aria-role="button" class="weui-btn weui-btn_default weui-btn_loading" bindtap="IsFinish" wx:if="{{!IsFinish&&IsStart&&IsOwn}}">结束讨论</a>
+      <a aria-role="button" class="weui-btn weui-btn_primary" bindtap="IsLast" wx:if="{{IsOwn&&info.Status==1}}">点赞完成</a>
+    </view>
+  </view>
+</view>

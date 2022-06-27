@@ -1,0 +1,7 @@
+.weui-flex__item{border:1px solid #e5e5e5;margin:5px;text-align: center;padding:5px;}
+.weui-cell2::before{border:0;}
+.weui-cell3{padding-bottom:0 !important;line-height:2em;}
+.weui-cell2{padding-top:5px !important;}
+.img{max-width:2em;max-height:2em;border-radius:50%;margin-right:10rpx;}
+.dz{width:100%;}
+.dz text{width: 50%;display: inline-block;}

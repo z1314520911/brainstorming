@@ -1,0 +1,5 @@
+<!--miniprogram/pages/img/img.wxml-->
+<view class='img'>
+<image src='cloud://cloud1-dda5a4.636c-cloud1-dda5a4/img.png'></image>
+<button type="primary">保存图片</button>
+</view>

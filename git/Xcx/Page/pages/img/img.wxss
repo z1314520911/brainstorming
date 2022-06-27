@@ -1,0 +1,16 @@
+/* miniprogram/pages/img/img.wxss */
+page{
+  width: 100%;
+  padding-top: 20rpx;
+}
+
+.img{
+  text-align: center;
+}
+
+button[type=primary] {
+  color: black;
+  width: 400rpx;
+  border: 1px solid #fcb818;
+  background-color: #fcb818;
+}

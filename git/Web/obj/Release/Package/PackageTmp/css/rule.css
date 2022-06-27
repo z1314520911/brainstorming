@@ -1,0 +1,6 @@
+.rule{background:#fff;border-radius:.5rem;padding:2%;width:92%;margin:0 auto;box-shadow:0 0 1rem 0 rgba(0,0,0,0.1);}
+.rule h4{height:2rem;line-height:2rem;font-size:1rem;color:#6A7780;border-bottom:.01rem solid #E8EAEF;margin-bottom:.5rem;}
+.rule .content{color:#B5BEC4;word-break:break-all;}
+.rule table{max-width:100% !important;}
+.rule p{text-indent:2em !important;line-height:1.6rem;}
+.rule *{max-width:100% !important;}

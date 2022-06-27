@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Master>
+  <Config>
+    <UserName>
+    </UserName>
+    <PassWord>
+    </PassWord>
+    <Host>
+    </Host>
+    <Port>25</Port>
+    <FromMail>
+    </FromMail>
+    <ToMail>
+    </ToMail>
+  </Config>
+</Master>

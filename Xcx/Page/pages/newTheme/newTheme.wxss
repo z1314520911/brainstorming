@@ -1,0 +1,48 @@
+/* miniprogram/pages/newIdea.wxss */
+
+.container {
+  width: 550rpx;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.theme {
+  padding: 0 30rpx;
+  margin: 30rpx 0;
+  /* border-radius: 15rpx; *//* border: 1rpx solid black; *//* width: 90%; */
+}
+
+.remark {
+  padding: 0 30rpx;
+  margin-top: 30rpx;
+  /* width: 90%; *//* background-color: white; *//* border-radius: 15rpx; *//* border: 1rpx solid black; */
+}
+
+textarea {
+  margin-top: 10rpx;
+  height: 300rpx;
+  background-color: white;
+}
+
+button {
+  display: inline-block;
+  line-height: 2.5;
+  font-size: 15px;
+  /* padding: 0 1.34em; */
+  width: 300rpx;
+  margin: 30rpx 0rpx;
+  /* border-color: #fcb818; */
+  border: 1rpx solid #fcb818;
+}
+
+button[type=primary][plain] {
+  color: black;
+  border: 1px solid #fcb818;
+  background-color: #fcb818;
+}
+
+.button-hover[type=primary][plain] {
+  color: black;
+  border-color: rgba(253, 178, 0, 1);
+  background-color: rgba(253, 177, 0, 0.6);
+}

@@ -1,0 +1,28 @@
+<view class="cont">
+  <scroll-view scroll-y="{{true}}">
+    <view wx:for="{{dataList}}" class="b-f list">
+      <navigator url="../themeDetails/themeDetails?id={{item.Id}}" hover-class="none">
+
+        <view class="header dis-flex">
+          <view class="flex-box t-l">
+            <text class="f-w">{{item.Name}}</text>
+          </view>
+        </view>
+        <view class="items">
+          <view class="dis-flex">
+            <view class="flex-box">
+              <view class="dis-flex">
+                <view class="flex-box">
+                  <text>房间：</text>{{item.Room}}
+                </view>
+                <view class="flex-box">
+                  <text>时间：</text>{{item.AddTime}}
+                </view>
+              </view>
+            </view>
+          </view>
+        </view>
+      </navigator>
+    </view>
+  </scroll-view>
+</view>

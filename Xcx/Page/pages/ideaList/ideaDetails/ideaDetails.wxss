@@ -1,0 +1,114 @@
+/* miniprogram/pages/ideaList/ideaDetails/ideaDetails.wxss */
+
+page {
+  background-color: #f8f8f8;
+}
+
+.idea-details-container {
+  padding: 50rpx 50rpx;
+  background-color: white;
+}
+
+.idea-info image {
+  /* display: flex; */
+  vertical-align: middle;
+}
+
+.idea-info text {
+  margin-left: 20rpx;
+}
+
+.avatar {
+  width: 80rpx;
+  height: 80rpx;
+  border-radius: 50%;
+}
+
+.idea text {
+  margin-top: 15rpx;
+  /* color: #999; */
+  font-size: 13px;
+  line-height: 1.5;
+  /* overflow: hidden; *//* text-overflow: ellipsis; */
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  /* -webkit-line-clamp: 2; */
+}
+
+.supportBtn-container {
+  margin-bottom: 90rpx;
+  margin-top: 40rpx;
+}
+
+.supportOrNot {
+  padding: 0 50rpx;
+  margin: 10rpx 0rpx;
+}
+
+.supportButton {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  background-color: white;
+  /* height: 200rpx; */
+  padding: 50rpx 0;
+}
+
+.supportButton button {
+  display: inline-block;
+  line-height: 2.5;
+  font-size: 15px;
+  padding: 0 1.34em;
+  width: 300rpx;
+  margin: 0 20rpx;
+}
+
+.button-hover[plain] {
+  color: rgba(253, 177, 0, 0.6);
+  border-color: rgba(253, 177, 0, 0.6);
+  background-color: transparent;
+}
+
+button[plain] {
+  /* #df9c02 #fcb818*/
+  color: #df9c02;
+  border: 1px solid #df9c02;
+  background-color: transparent;
+}
+
+.newTheme {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  margin-top: 100rpx;
+  width: 500rpx;
+  margin: 0 auto;
+}
+
+.newTheme button[size=mini] {
+  display: inline-block;
+  line-height: 2.3;
+  font-size: 13px;
+  padding: 0 1.34em;
+}
+
+.newTheme button {
+  color: black;
+  border: 1px solid #fcb818;
+  background-color: #fcb818;
+}
+
+.newTheme .button-hover[size=mini] {
+  color: black;
+  border-color: rgba(253, 178, 0, 1);
+  background-color: rgba(253, 177, 0, 0.6);
+}
+
+.newTheme text {
+  font-size: 12px;
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  color: #999;
+}

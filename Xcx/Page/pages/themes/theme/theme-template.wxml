@@ -1,0 +1,13 @@
+<template name="themeTemplate">
+  <view class='theme-container'>
+    <view class='theme'>
+      <text class='themeText'>{{theme}}</text>
+    </view>
+    
+    <view class='remark'>
+      <view>
+        <text class='remarkText'>{{remark}}</text>
+      </view>
+    </view>
+  </view>
+</template>

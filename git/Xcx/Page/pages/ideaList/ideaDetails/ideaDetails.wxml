@@ -1,0 +1,32 @@
+<!--miniprogram/pages/ideaList/ideaDetails/ideaDetails.wxml-->
+<view>
+  <view class='idea-details-container'>
+    <view class='idea-info'>
+      <image class='avatar' src='{{avatarUrl}}'></image>
+      <text>{{gradation}}</text>
+    </view>
+    <view class='idea'>
+      <text>{{idea}}</text>
+    </view>
+
+  </view>
+
+  <view class='supportBtn-container'>
+    <view class='supportOrNot'>
+      <text>筛选表态</text>
+    </view>
+    <view class='supportButton'>
+      <button plain='true' bindtap='onSupportBtn' disabled='{{isBtnDisabled}}'>支持</button>
+      <button plain='true' bindtap='onOpposeBtn' disabled='{{isBtnDisabled}}'>不支持</button>
+    </view>
+  </view>
+
+  <view wx:if='{{themeIndex<3}}' class='newTheme'>
+    <view>
+      <button size='mini' bindtap='creatSubTheme'>新主题</button>
+    </view>
+    <view>
+      <text>说明：新建一个新主题，继续对该灵感发散思维，相当于思维导图的下一层级。</text>
+    </view>
+  </view>
+</view>

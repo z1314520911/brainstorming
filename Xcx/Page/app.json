@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/themes/themes",
+    "pages/login/login",
+    "pages/newTheme/newTheme",
+    "pages/themeDetails/themeDetails",
+    "pages/themeDetails/themeIdea",
+    "pages/ideaList/ideaList",
+    "pages/ideaList/newSubTheme/newSubTheme",
+    "pages/ideaList/ideaDetails/ideaDetails",
+    "pages/img/img"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#07c160",
+    "navigationBarTitleText": "头脑风暴",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#cccccc",
+    "selectedColor": "#07c160",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/themes/themes",
+        "text": "首页",
+        "iconPath": "images/home.png",
+        "selectedIconPath": "images/home-active.png"
+      },
+      {
+        "pagePath": "pages/ideaList/ideaList",
+        "text": "我的",
+        "iconPath": "images/user.png",
+        "selectedIconPath": "images/user-active.png"
+      }
+    ],
+    "position": "bottom"
+  },
+  "sitemapLocation": "sitemap.json"
+}

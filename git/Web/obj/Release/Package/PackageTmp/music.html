@@ -1,0 +1,57 @@
+﻿
+<audio src="/mp3/gxfc.m4a" id="Jaudio" class="media-audio" autoplay preload loop="loop"></audio>
+<audio src="/mp3/gxfc.m4a" id="Jaudio" class="media-audio" preload loop="loop"></audio>
+
+
+<script type="text/javascript">
+    function audioAutoPlay(id) {
+        var audio = document.getElementById(id),
+            play = function () {
+                audio.play();
+                document.removeEventListener("touchstart", play, false);
+            };
+        audio.play();
+        document.addEventListener("WeixinJSBridgeReady", function () {
+            audio.play();
+        }, false);
+        document.addEventListener('YixinJSBridgeReady', function () {
+            audio.play();
+        }, false);
+        document.addEventListener("touchstart", play, false);
+    }
+    audioAutoPlay('Jaudio');
+
+    //function audioAutoPlay(id) {
+    //    var audio = document.getElementById(id);
+    //    audio.play();
+    //    document.addEventListener("WeixinJSBridgeReady", function () {
+    //        audio.play();
+    //    }, false);
+    //}
+    //audioAutoPlay('Jaudio');
+</script>
+
+<!--
+<audio src="/mp3/gxfc.mp3" autoplay loop id="audiojs"></audio>
+<script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function () {
+        function audioAutoPlay() {
+            var audio = document.getElementById('audiojs');
+            audio.play();
+            document.addEventListener("WeixinJSBridgeReady", function () {
+                audio.play();
+            }, false);
+        }
+        audioAutoPlay();
+    });
+
+    if (/i(Phone|P(o|a)d)/.test(navigator.userAgent)) {
+        $(document).one('touchstart',
+            function (e) {
+                $('#audiojs').get(0).touchstart = true;
+                $('#audiojs').get(0).play();
+                return false;
+            });
+    }
+</script>
+-->

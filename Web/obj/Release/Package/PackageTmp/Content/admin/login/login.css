@@ -1,0 +1,58 @@
+html {min-width:1100px;height:100%;background-attachment:fixed;background:#f5f5f5;}
+input {-webkit-appearance:none;}
+body { margin:0;padding:0;line-height:normal;font-size:12px;color:#7B7B7B;font-family:Arial,'Î¢ÈíÑÅºÚ';background-attachment:fixed;}
+img,form,p { margin:0;padding:0;border:0;}
+select,input,textarea,button { font-size:13px;}
+a { text-decoration:none;color:#CBD3DF;}
+a:hover { text-decoration:none;color:#38B8E8;}
+
+.login-main{position:relative;margin:50px auto 0;padding:10px;background:#f5f5f5;width:460px;min-height:460px}
+.login-logo{ text-align:center;font-size:42px;color:#656665;background:url(login-logo2.gif) no-repeat 55px top;height:50px;font-weight:bold;}
+.login-txtbox{position:relative}
+.login-txtbox,.code-txtbox,.code-num{position:relative;margin-top:10px;height:48px;border:solid 1px #bbb;background:#fff}
+.login-txtbox i,.code-txtbox i{display:inline-block;float:left;width:36px;height:48px;background:url(loginSp-ico.png) no-repeat}
+.login-txtbox .ico-usename{background-position:0 0!important}
+.login-txtbox .ico-pwd{background-position:-34px 0!important}
+.login-txtbox input,.code-txtbox input{float:left;padding:15px 5px;height:18px;background:#fff;color:#999;font-size:14px;font-family:SimSun;border:0}
+.login-txtbox input:focus,.code-txtbox input:focus { outline:medium;}
+.login-txtbox .txt-input{width:410px}
+.login-code{height:60px;_height:40px}
+.code-txtbox{float:left;width:248px}
+.code-txtbox .ico-code{background-position:-68px 0!important}
+.code-txtbox .txt-input{width:198px}
+.code-num{float:left;height:50px;_font-size:0;margin-left:10px;width:146px;text-align:center;border:0;}
+.code-num img{width:146px;height:50px;line-height:0}
+.code-link{float:left;margin:10px 0 0 15px;padding:8px 0;width:36px;height:34px;font-size:12px;font-family:SimSun}
+.code-link a{color:#2272c8}
+.code-link a:hover{color:#f60}
+.btn-login{margin-top:40px;width:100%}
+.login-submit{display:block;height:48px;text-align:center;font-size:20px;font-family:"Microsoft YaHei";font-weight:700;color:#fff;background:#ff9c00;border:solid 1px #f88600;line-height:48px;width:100%;}
+.btn-login a:hover{text-decoration:none;color:#fff}
+.login-submit:hover{background:#f8b500;border:solid 1px #ff9c00}
+.links-text{position:relative;padding:15px 0;height:14px;line-height:14px;color:#bbb}
+.links-text a{color:#666}
+.links-text a:hover{color:#f60}
+.user-frd{margin-top:40px;padding:20px 0;height:12px;line-height:12px;text-align:center;border-top:solid 1px #ddd;color:#999}
+.user-frd a{color:#999}
+.user-frd a:hover{color:#f60}
+.login-form{position:absolute;width:460px;background:#f5f5f5;z-index:10;margin-top:40px;}
+.login-txtbox .text-email{position:relative;background:transparent}
+
+.header{padding:5px 0;width:980px;margin:10px auto 0;}
+.toplinks{float:right;line-height:32px;}
+.toplinks,.toplinks a{color:#8e8e8e;}
+.toplinks a{margin:0 3px;text-decoration:none;}
+.toplinks a:hover{text-decoration:underline;}
+@media screen and (max-width:950px) {
+html{min-width:100%;}
+.header{width:90%;}
+}
+@media screen and (max-width:480px) {
+.login-main{width:90%;padding:0;}
+.login-txtbox .txt-input{width:50%;}
+.login-form{width:100%;}
+.login-logo{background:none;}
+.header{width:90%;}
+.code-txtbox{float:none;width:auto;}
+.code-num{margin:10px 0;}
+}

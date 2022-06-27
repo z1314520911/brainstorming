@@ -1,0 +1,301 @@
+D:\money\cristi\My\cz\Share\DAL\bin\Debug\DAL.dll
+D:\money\cristi\My\cz\Share\DAL\bin\Debug\DAL.pdb
+D:\money\cristi\My\cz\Share\DAL\bin\Debug\Commons.dll
+D:\money\cristi\My\cz\Share\DAL\bin\Debug\DBHelper.dll
+D:\money\cristi\My\cz\Share\DAL\bin\Debug\Model.dll
+D:\money\cristi\My\cz\Share\DAL\bin\Debug\System.Web.Mvc.dll
+D:\money\cristi\My\cz\Share\DAL\bin\Debug\System.Web.Razor.dll
+D:\money\cristi\My\cz\Share\DAL\bin\Debug\System.Web.WebPages.Razor.dll
+D:\money\cristi\My\cz\Share\DAL\bin\Debug\System.Web.WebPages.dll
+D:\money\cristi\My\cz\Share\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\money\cristi\My\cz\Share\DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\money\cristi\My\cz\Share\DAL\bin\Debug\Commons.pdb
+D:\money\cristi\My\cz\Share\DAL\bin\Debug\DBHelper.pdb
+D:\money\cristi\My\cz\Share\DAL\bin\Debug\Model.pdb
+D:\money\cristi\My\cz\Share\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\money\cristi\My\cz\Share\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\money\cristi\My\cz\Share\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\money\cristi\My\cz\Share\DAL\obj\Debug\DAL.dll
+D:\money\cristi\My\cz\Share\DAL\obj\Debug\DAL.pdb
+D:\money\cristi\My\game\DAL\bin\Debug\DAL.dll
+D:\money\cristi\My\game\DAL\bin\Debug\DAL.pdb
+D:\money\cristi\My\game\DAL\bin\Debug\Commons.dll
+D:\money\cristi\My\game\DAL\bin\Debug\DBHelper.dll
+D:\money\cristi\My\game\DAL\bin\Debug\Model.dll
+D:\money\cristi\My\game\DAL\bin\Debug\System.Web.Mvc.dll
+D:\money\cristi\My\game\DAL\bin\Debug\System.Web.Razor.dll
+D:\money\cristi\My\game\DAL\bin\Debug\System.Web.WebPages.Razor.dll
+D:\money\cristi\My\game\DAL\bin\Debug\System.Web.WebPages.dll
+D:\money\cristi\My\game\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\money\cristi\My\game\DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\money\cristi\My\game\DAL\bin\Debug\Commons.pdb
+D:\money\cristi\My\game\DAL\bin\Debug\DBHelper.pdb
+D:\money\cristi\My\game\DAL\bin\Debug\Model.pdb
+D:\money\cristi\My\game\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\money\cristi\My\game\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\money\cristi\My\game\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\money\cristi\My\game\DAL\obj\Debug\DAL.dll
+D:\money\cristi\My\game\DAL\obj\Debug\DAL.pdb
+D:\money\cristi\My\yw\vote\DAL\bin\Debug\DAL.dll
+D:\money\cristi\My\yw\vote\DAL\bin\Debug\DAL.pdb
+D:\money\cristi\My\yw\vote\DAL\bin\Debug\Commons.dll
+D:\money\cristi\My\yw\vote\DAL\bin\Debug\DBHelper.dll
+D:\money\cristi\My\yw\vote\DAL\bin\Debug\Model.dll
+D:\money\cristi\My\yw\vote\DAL\bin\Debug\System.Web.Mvc.dll
+D:\money\cristi\My\yw\vote\DAL\bin\Debug\System.Web.Razor.dll
+D:\money\cristi\My\yw\vote\DAL\bin\Debug\System.Web.WebPages.Razor.dll
+D:\money\cristi\My\yw\vote\DAL\bin\Debug\System.Web.WebPages.dll
+D:\money\cristi\My\yw\vote\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\money\cristi\My\yw\vote\DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\money\cristi\My\yw\vote\DAL\bin\Debug\Commons.pdb
+D:\money\cristi\My\yw\vote\DAL\bin\Debug\DBHelper.pdb
+D:\money\cristi\My\yw\vote\DAL\bin\Debug\Model.pdb
+D:\money\cristi\My\yw\vote\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\money\cristi\My\yw\vote\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\money\cristi\My\yw\vote\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\money\cristi\My\yw\vote\DAL\obj\Debug\DAL.dll
+D:\money\cristi\My\yw\vote\DAL\obj\Debug\DAL.pdb
+D:\money\cristi\My\yw\nc\admin\DAL\bin\Debug\DAL.dll
+D:\money\cristi\My\yw\nc\admin\DAL\bin\Debug\DAL.pdb
+D:\money\cristi\My\yw\nc\admin\DAL\bin\Debug\Commons.dll
+D:\money\cristi\My\yw\nc\admin\DAL\bin\Debug\DBHelper.dll
+D:\money\cristi\My\yw\nc\admin\DAL\bin\Debug\Model.dll
+D:\money\cristi\My\yw\nc\admin\DAL\bin\Debug\System.Web.Mvc.dll
+D:\money\cristi\My\yw\nc\admin\DAL\bin\Debug\System.Web.Razor.dll
+D:\money\cristi\My\yw\nc\admin\DAL\bin\Debug\System.Web.WebPages.Razor.dll
+D:\money\cristi\My\yw\nc\admin\DAL\bin\Debug\System.Web.WebPages.dll
+D:\money\cristi\My\yw\nc\admin\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\money\cristi\My\yw\nc\admin\DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\money\cristi\My\yw\nc\admin\DAL\bin\Debug\Commons.pdb
+D:\money\cristi\My\yw\nc\admin\DAL\bin\Debug\DBHelper.pdb
+D:\money\cristi\My\yw\nc\admin\DAL\bin\Debug\Model.pdb
+D:\money\cristi\My\yw\nc\admin\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\money\cristi\My\yw\nc\admin\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\money\cristi\My\yw\nc\admin\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\money\cristi\My\yw\nc\admin\DAL\obj\Debug\DAL.dll
+D:\money\cristi\My\yw\nc\admin\DAL\obj\Debug\DAL.pdb
+D:\money\cristi\My\yw\nc\web\DAL\bin\Debug\DAL.dll
+D:\money\cristi\My\yw\nc\web\DAL\bin\Debug\DAL.pdb
+D:\money\cristi\My\yw\nc\web\DAL\bin\Debug\Commons.dll
+D:\money\cristi\My\yw\nc\web\DAL\bin\Debug\DBHelper.dll
+D:\money\cristi\My\yw\nc\web\DAL\bin\Debug\Model.dll
+D:\money\cristi\My\yw\nc\web\DAL\bin\Debug\System.Web.Mvc.dll
+D:\money\cristi\My\yw\nc\web\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\money\cristi\My\yw\nc\web\DAL\bin\Debug\System.Web.Razor.dll
+D:\money\cristi\My\yw\nc\web\DAL\bin\Debug\System.Web.WebPages.Razor.dll
+D:\money\cristi\My\yw\nc\web\DAL\bin\Debug\System.Web.WebPages.dll
+D:\money\cristi\My\yw\nc\web\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\money\cristi\My\yw\nc\web\DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\money\cristi\My\yw\nc\web\DAL\bin\Debug\Commons.pdb
+D:\money\cristi\My\yw\nc\web\DAL\bin\Debug\Model.pdb
+D:\money\cristi\My\yw\nc\web\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\money\cristi\My\yw\nc\web\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\money\cristi\My\yw\nc\web\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\money\cristi\My\yw\nc\web\DAL\obj\Debug\DAL.dll
+D:\money\cristi\My\yw\nc\web\DAL\obj\Debug\DAL.pdb
+D:\money\cristi\My\yw\nc\1.Nc.Sc\web\DAL\bin\Debug\DAL.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\web\DAL\bin\Debug\DAL.pdb
+D:\money\cristi\My\yw\nc\1.Nc.Sc\web\DAL\bin\Debug\Commons.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\web\DAL\bin\Debug\DBHelper.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\web\DAL\bin\Debug\Model.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\web\DAL\bin\Debug\System.Web.Mvc.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\web\DAL\bin\Debug\Interop.CDO.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\web\DAL\bin\Debug\Interop.ADODB.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\web\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\web\DAL\bin\Debug\System.Web.Razor.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\web\DAL\bin\Debug\System.Web.WebPages.Razor.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\web\DAL\bin\Debug\System.Web.WebPages.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\web\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\web\DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\web\DAL\bin\Debug\Commons.pdb
+D:\money\cristi\My\yw\nc\1.Nc.Sc\web\DAL\bin\Debug\Model.pdb
+D:\money\cristi\My\yw\nc\1.Nc.Sc\web\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\money\cristi\My\yw\nc\1.Nc.Sc\web\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\money\cristi\My\yw\nc\1.Nc.Sc\web\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\money\cristi\My\yw\nc\1.Nc.Sc\web\DAL\obj\Debug\DAL.dll
+D:\money\cristi\My\yw\nc\1.Nc.Sc\web\DAL\obj\Debug\DAL.pdb
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\web\DAL\bin\Debug\DAL.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\web\DAL\bin\Debug\DAL.pdb
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\web\DAL\bin\Debug\Commons.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\web\DAL\bin\Debug\DBHelper.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\web\DAL\bin\Debug\Model.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\web\DAL\bin\Debug\System.Web.Mvc.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\web\DAL\bin\Debug\Interop.CDO.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\web\DAL\bin\Debug\Interop.ADODB.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\web\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\web\DAL\bin\Debug\System.Web.Razor.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\web\DAL\bin\Debug\System.Web.WebPages.Razor.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\web\DAL\bin\Debug\System.Web.WebPages.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\web\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\web\DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\web\DAL\bin\Debug\Commons.pdb
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\web\DAL\bin\Debug\Model.pdb
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\web\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\web\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\web\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\web\DAL\obj\Debug\DAL.dll
+D:\money\cristi\My\yw\ayj\2020\Nc\Nc.Sc\web\DAL\obj\Debug\DAL.pdb
+E:\job\Money\BBS\DAL\bin\Debug\DAL.dll
+E:\job\Money\BBS\DAL\bin\Debug\DAL.pdb
+E:\job\Money\BBS\DAL\bin\Debug\Commons.dll
+E:\job\Money\BBS\DAL\bin\Debug\DBHelper.dll
+E:\job\Money\BBS\DAL\bin\Debug\Model.dll
+E:\job\Money\BBS\DAL\bin\Debug\System.Web.Mvc.dll
+E:\job\Money\BBS\DAL\bin\Debug\Interop.CDO.dll
+E:\job\Money\BBS\DAL\bin\Debug\Interop.ADODB.dll
+E:\job\Money\BBS\DAL\bin\Debug\Newtonsoft.Json.dll
+E:\job\Money\BBS\DAL\bin\Debug\System.Web.Razor.dll
+E:\job\Money\BBS\DAL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\job\Money\BBS\DAL\bin\Debug\System.Web.WebPages.dll
+E:\job\Money\BBS\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\job\Money\BBS\DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\job\Money\BBS\DAL\bin\Debug\Commons.pdb
+E:\job\Money\BBS\DAL\bin\Debug\Model.pdb
+E:\job\Money\BBS\DAL\bin\Debug\System.Web.Mvc.xml
+E:\job\Money\BBS\DAL\bin\Debug\System.Web.Razor.xml
+E:\job\Money\BBS\DAL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\job\Money\BBS\DAL\bin\Debug\System.Web.WebPages.xml
+E:\job\Money\BBS\DAL\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\job\Money\BBS\DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\job\Money\BBS\DAL\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+E:\job\Money\BBS\DAL\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+E:\job\Money\BBS\DAL\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\job\Money\BBS\DAL\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+E:\job\Money\BBS\DAL\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\job\Money\BBS\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\job\Money\BBS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\job\Money\BBS\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\job\Money\BBS\DAL\obj\Debug\DAL.dll
+E:\job\Money\BBS\DAL\obj\Debug\DAL.pdb
+E:\job\Money\CarShop\DAL\bin\Debug\DAL.dll
+E:\job\Money\CarShop\DAL\bin\Debug\DAL.pdb
+E:\job\Money\CarShop\DAL\bin\Debug\Commons.dll
+E:\job\Money\CarShop\DAL\bin\Debug\DBHelper.dll
+E:\job\Money\CarShop\DAL\bin\Debug\Model.dll
+E:\job\Money\CarShop\DAL\bin\Debug\System.Web.Mvc.dll
+E:\job\Money\CarShop\DAL\bin\Debug\Interop.CDO.dll
+E:\job\Money\CarShop\DAL\bin\Debug\Interop.ADODB.dll
+E:\job\Money\CarShop\DAL\bin\Debug\Newtonsoft.Json.dll
+E:\job\Money\CarShop\DAL\bin\Debug\System.Web.Razor.dll
+E:\job\Money\CarShop\DAL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\job\Money\CarShop\DAL\bin\Debug\System.Web.WebPages.dll
+E:\job\Money\CarShop\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\job\Money\CarShop\DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\job\Money\CarShop\DAL\bin\Debug\Commons.pdb
+E:\job\Money\CarShop\DAL\bin\Debug\Model.pdb
+E:\job\Money\CarShop\DAL\bin\Debug\System.Web.Mvc.xml
+E:\job\Money\CarShop\DAL\bin\Debug\System.Web.Razor.xml
+E:\job\Money\CarShop\DAL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\job\Money\CarShop\DAL\bin\Debug\System.Web.WebPages.xml
+E:\job\Money\CarShop\DAL\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\job\Money\CarShop\DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\job\Money\CarShop\DAL\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+E:\job\Money\CarShop\DAL\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+E:\job\Money\CarShop\DAL\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\job\Money\CarShop\DAL\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+E:\job\Money\CarShop\DAL\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\job\Money\CarShop\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\job\Money\CarShop\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\job\Money\CarShop\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\job\Money\CarShop\DAL\obj\Debug\DAL.dll
+E:\job\Money\CarShop\DAL\obj\Debug\DAL.pdb
+E:\job\Money\CarShop\DAL\bin\Debug\DBHelper.pdb
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\DAL.dll
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\DAL.pdb
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\Commons.dll
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\DBHelper.dll
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\Model.dll
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\System.Web.Mvc.dll
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\Interop.CDO.dll
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\Interop.ADODB.dll
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\Newtonsoft.Json.dll
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\System.Web.Razor.dll
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\System.Web.WebPages.dll
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\Commons.pdb
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\DBHelper.pdb
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\Model.pdb
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\System.Web.Mvc.xml
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\System.Web.Razor.xml
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\System.Web.WebPages.xml
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+E:\job\Money\TouNaoFengBao\DAL\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\job\Money\TouNaoFengBao\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\job\Money\TouNaoFengBao\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\job\Money\TouNaoFengBao\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\job\Money\TouNaoFengBao\DAL\obj\Debug\DAL.dll
+E:\job\Money\TouNaoFengBao\DAL\obj\Debug\DAL.pdb
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\DAL.dll
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\DAL.pdb
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\Commons.dll
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\DBHelper.dll
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\Model.dll
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\System.Web.Mvc.dll
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\Interop.CDO.dll
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\Interop.ADODB.dll
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\Newtonsoft.Json.dll
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\System.Web.Razor.dll
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\System.Web.WebPages.Razor.dll
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\System.Web.WebPages.dll
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\Commons.pdb
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\DBHelper.pdb
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\Model.pdb
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\System.Web.Mvc.xml
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\System.Web.Razor.xml
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\System.Web.WebPages.Razor.xml
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\System.Web.WebPages.xml
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\Microsoft.Web.Infrastructure.xml
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+E:\job\Money\TouNaoFengBao - 副本\DAL\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+E:\job\Money\TouNaoFengBao - 副本\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\job\Money\TouNaoFengBao - 副本\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\job\Money\TouNaoFengBao - 副本\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\job\Money\TouNaoFengBao - 副本\DAL\obj\Debug\DAL.dll
+E:\job\Money\TouNaoFengBao - 副本\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\Commons.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\DBHelper.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\Interop.CDO.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\Interop.ADODB.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\Commons.pdb
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\DBHelper.pdb
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\毕业论文\论文源码\DAL\obj\Debug\DAL.pdb

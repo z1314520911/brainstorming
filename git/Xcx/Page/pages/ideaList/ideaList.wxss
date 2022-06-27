@@ -1,0 +1,14 @@
+page{background:#f2f2f2;}
+
+.list{color:#cccccc;font-size:28rpx;padding:0;width:100%;margin-top:20rpx;border-radius:10rpx;}
+.list .flex-box{color:#232327;white-space:nowrap;text-overflow:ellipsis;overflow:hidden;}
+.list image{width:30rpx;margin:0 10rpx 4rpx 0;}
+.list .t{font-size:24rpx;vertical-align:middle;padding-left:60rpx;}
+.list .c{padding-top:10rpx;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.items{padding:20rpx;line-height:50rpx;font-size:24rpx;}
+.items text{color:#999;}
+
+.cont{top:0;bottom:0;left:0;right:0;font-size:28rpx;position:fixed;padding:0 20rpx;}
+
+.header{padding:20rpx;border-bottom: 1px solid #f3f3f3;}
+.header .t-r{color:#ff679a;}

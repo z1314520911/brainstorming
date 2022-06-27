@@ -1,0 +1,95 @@
+﻿<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="Content-type" content="text/html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=0" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta name="format-detection" content="telephone=no, email=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <asp:ContentPlaceHolder ID="TitleContent" runat="server" />
+    <link rel="stylesheet" type="text/css" href="/css/reset.css" />
+    <link rel="stylesheet" href="/css/common.css" />
+    <link rel="stylesheet" type="text/css" href="/css/swiper.min.css" />
+    <link rel="stylesheet" type="text/css" href="/css/font.css" />
+    <link rel="stylesheet" type="text/css" href="/css/rule.css" />
+    <link rel="stylesheet" type="text/css" href="/css/indexColor.css" />
+    <script src="/js/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="/js/swiper.min.js"></script>
+    <link href="/js/layer/theme/default/layer.css" rel="stylesheet">
+
+    <script src="/js/layer/layer.js"></script>
+
+    <script src="/js/jquery.lazyload.min.js"></script>
+    <script src="/js/masonry-docs.min.js"></script>
+</head>
+
+    <%
+        Model.T_Share share = ViewBag.share as Model.T_Share;
+    %>
+<body>
+    <%--<iframe src="/music.html" style="display:none;"></iframe>--%>
+        <div class="bg-pic"<%=Convert.ToString(ViewContext.RouteData.Values["action"])=="Index"?" style=\"background: url(/images/111.jpg) center 0 no-repeat;\"":"" %>></div>
+        <script src="/js/bubbles.js"></script>
+    <header>
+            <%--<a href="javascript:void(0)" class="bg-music iconfont icon-music rotate" id="play">
+                <audio id="bgMusic" autoplay=autoplay>
+                    <source src="" type="audio/mp3" />
+                    <source src="" type="audio/ogg" />
+                </audio>
+            </a>--%>
+        <div class="swiper-container swiper-container-horizontal">
+            <div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(0px, 0px, 0px);">
+        <mvc:MvcRepeater ID="MvcAdvert1" Key="Advert2" runat="server">
+            <ItemTemplate>
+                <div class="swiper-slide">
+                    <a href="javascript:;"><img width="100%" style="border-radius:2px;" class="swiper-lazy swiper-lazy-loaded" src="<%#Eval("Pic")%>" /></a>
+                </div>
+            </ItemTemplate>
+        </mvc:MvcRepeater>
+            </div>
+            <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet swiper-pagination-bullet-active"></span></div>
+        </div>
+        <div class="header-main">
+            <div class="vote-info color" style='background:#ff6a6a'>
+                <div class="info">
+                    <p class="info-label">参与者</p>
+                    <p class="info-num"><%= ViewBag.CSNum %></p>
+                </div>
+                <div class="info">
+                    <p class="info-label">投票数</p>
+                    <p class="info-num"><%= ViewBag.VoteAllNum - 1 %></p>
+                </div>
+                <div class="info" style="border-right: 0;">
+                    <p class="info-label">访问量</p>
+                    <p class="info-num"><%= share.Click %></p>
+                </div>
+            </div>
+                <div class="do-apply" style='background:#ff6a6a'><a href="/Share/AddUser"><em></em>我要报名</a></div>
+                <%--<div class="do-apply" style='background:#ff6a6a'><a href="<%=Url.Action("AddUser",new { id=ViewBag.Id}) %>"><em></em>我要报名</a></div>--%>
+            <div class="status-line">
+                <p><i class="iconfont icon-time fontcolor"></i> 活动<span style="background: none;">结束</span>倒计时<span>0</span>天<span>0</span>时<span>0</span>分<span>0</span>秒</p>
+            </div>
+        </div>
+    </header>
+    <div class="contain">
+    <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+    </div>
+    <footer>
+        <nav class="footer-nav nav-wrapper">
+            <a class="menu<%=Convert.ToString(ViewContext.RouteData.Values["action"])!="Rank"&&Convert.ToString(ViewContext.RouteData.Values["action"])!="Rule"?" active":"" %>" href="<%=Url.Action("Index",new { id=ViewBag.Id }) %>">全部参赛</a>
+            <a class="menu<%=Convert.ToString(ViewContext.RouteData.Values["action"])=="Rank"?" active":"" %>" href="<%=Url.Action("Rank",new { id=ViewBag.Id}) %>">当前排名</a>
+            <a class="menu<%=Convert.ToString(ViewContext.RouteData.Values["action"])=="Rule"?" active":"" %>" href="<%=Url.Action("Rule",new { id=ViewBag.Id}) %>">活动介绍</a>
+        </nav>
+    </footer>
+    <asp:ContentPlaceHolder ID="FooterContent" runat="server" />
+    <input type="hidden" id="time_s" value="<%= share.StartTime.ToString("yyyy/MM/dd HH:mm:ss") %>" />
+    <input type="hidden" id="time_e" value="<%= share.EndTime.ToString("yyyy/MM/dd 18:00:00") %>" />
+    <script src="/js/common.js"></script>
+
+</body>
+</html>
+
+<%--差报名，访问量写入--%>

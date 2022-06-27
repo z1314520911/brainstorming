@@ -1,0 +1,107 @@
+﻿@using System.Dynamic;
+@using System.Data;
+@{
+    Layout = null;
+    Response.Clear();
+    Response.Buffer = true;
+    Response.AppendHeader("Content-Disposition", "attachment;filename=订单信息_" + DateTime.Now.ToString("yyyy-MM-dd_HHmmss") + ".xls");
+    Response.ContentEncoding = System.Text.Encoding.UTF8;
+    Response.ContentType = "application/vnd.ms-excel";
+}
+@{
+    //List<ExpandoObject> list = ViewBag.Data as List<ExpandoObject>;
+    DataTable dtOrder = ViewBag.Data as DataTable;
+}
+<table border="1" cellpadding="0" cellspacing="1" style="background-color: Black;">
+    <tr style="font-weight: bold; background-color: #ddd;">
+        <td colspan="20" height="28" align="center" style="font-size: 16px;">订单信息</td>
+    </tr>
+    <tr style="font-weight: bold; background-color: #ddd;">
+        <td height="28" align="center" style="white-space: nowrap">订单编号</td>
+        <td height="28" align="center" style="white-space: nowrap">会员信息</td>
+        <td height="28" align="center" style="white-space: nowrap">收货人</td>
+        <td height="28" align="center" style="white-space: nowrap">收货人电话</td>
+        <td height="28" align="center" style="white-space: nowrap">详细地址</td>
+        <td height="28" align="center" style="white-space: nowrap">商品名称</td>
+        <td height="28" align="center" style="white-space: nowrap">商品规格</td>
+        <td height="28" align="center" style="white-space: nowrap">商品份数</td>
+        <td height="28" align="center" style="white-space: nowrap">商品单价</td>
+        <td height="28" align="center" style="white-space: nowrap">商品的总金额</td>
+        <td height="28" align="center" style="white-space: nowrap">余额抵扣金额</td>
+        <td height="28" align="center" style="white-space: nowrap">优惠券优惠</td>
+        <td height="28" align="center" style="white-space: nowrap">应收款</td>
+        <td height="28" align="center" style="white-space: nowrap">订单状态</td>
+        <td height="28" align="center" style="white-space: nowrap">下单时间</td>
+        <td height="28" align="center" style="white-space: nowrap">付款时间</td>
+        <td height="28" align="center" style="white-space: nowrap">发货时间</td>
+        <td height="28" align="center" style="white-space: nowrap">完成时间</td>
+        <td height="28" align="center" style="white-space: nowrap">快递公司</td>
+        <td height="28" align="center" style="white-space: nowrap">快递单号</td>
+    </tr>
+@{
+    int index = 1;
+    string[] strs;
+
+    foreach (DataRow row in dtOrder.Rows)
+    {
+        index = 1;
+        strs = row["商品名称"].ToString().Split('★');
+        foreach (string item in strs)
+        {
+            if (index == 1)
+            {
+    <tr style="font-weight: 500; background-color: #ddd;">
+        <td height="28" align="center" style="white-space: nowrap">@("'" + row["订单编号"].ToString())</td>
+        <td height="28" align="center" style="white-space: nowrap">@(row["会员姓名"])：@(row["会员手机号"])</td>
+        <td height="28" align="center" style="white-space: nowrap">@(row["收货姓名"])</td>
+        <td height="28" align="center" style="white-space: nowrap">@(row["联系电话"])</td>
+        <td height="28" align="center" style="white-space: nowrap">@(row["详细地址"])</td>
+        <td height="28" align="left" style="white-space: nowrap">@(item.Split('＄')[0])</td>
+        <td height="28" align="left" style="white-space: nowrap">@(item.Split('＄')[6])</td>
+        <td height="28" align="left" style="white-space: nowrap">@(item.Split('＄')[1])</td>
+        <td height="28" align="left" style="white-space: nowrap">@(item.Split('＄')[5])</td>
+        <td height="28" align="center" style="white-space: nowrap">@(row["商品的总金额"])</td>
+        <td height="28" align="center" style="white-space: nowrap">@(row["余额抵扣金额"])</td>
+        <td height="28" align="center" style="white-space: nowrap">@(row["优惠券优惠"])</td>
+        <td height="28" align="center" style="white-space: nowrap">@(row["应收款"])</td>
+        <td height="28" align="center" style="white-space: nowrap">@(row["订单状态"])</td>
+        <td height="28" align="center" style="white-space: nowrap">@(row["下单时间"])</td>
+        <td height="28" align="center" style="white-space: nowrap">@(row["付款时间"])</td>
+        <td height="28" align="center" style="white-space: nowrap">@(row["发货时间"])</td>
+        <td height="28" align="center" style="white-space: nowrap">@(row["完成时间"])</td>
+        <td height="28" align="center" style="white-space: nowrap">@(row["快递公司"])</td>
+        <td height="28" align="left" style="white-space: nowrap">@(item.Split('＄')[4])</td>
+    </tr>
+            }
+            else
+            {
+    <tr style="font-weight: 500; background-color: #ddd;">
+        <td height="28" align="center" style="white-space: nowrap"></td>
+        <td height="28" align="center" style="white-space: nowrap"></td>
+        <td height="28" align="center" style="white-space: nowrap"></td>
+        <td height="28" align="center" style="white-space: nowrap"></td>
+        <td height="28" align="center" style="white-space: nowrap"></td>
+        <td height="28" align="left" style="white-space: nowrap">@(item.Split('＄')[0])</td>
+        <td height="28" align="left" style="white-space: nowrap">@(item.Split('＄')[6])</td>
+        <td height="28" align="left" style="white-space: nowrap">@(item.Split('＄')[1])</td>
+        <td height="28" align="left" style="white-space: nowrap">@(item.Split('＄')[5])</td>
+        <td height="28" align="center" style="white-space: nowrap"></td>
+        <td height="28" align="center" style="white-space: nowrap"></td>
+        <td height="28" align="center" style="white-space: nowrap"></td>
+        <td height="28" align="center" style="white-space: nowrap"></td>
+        <td height="28" align="center" style="white-space: nowrap"></td>
+        <td height="28" align="center" style="white-space: nowrap"></td>
+        <td height="28" align="center" style="white-space: nowrap"></td>
+        <td height="28" align="center" style="white-space: nowrap"></td>
+        <td height="28" align="center" style="white-space: nowrap"></td>
+        <td height="28" align="center" style="white-space: nowrap"></td>
+    </tr>
+            }
+            index++;
+        }
+    }
+}
+
+    </table>
+
+

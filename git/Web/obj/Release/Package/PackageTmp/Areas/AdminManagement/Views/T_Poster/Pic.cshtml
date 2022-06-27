@@ -1,0 +1,44 @@
+﻿<link rel="stylesheet" type="text/css" href="/Content/draggabilly/css.css">
+<table class="layui-table">
+    <tbody>
+        <tr>
+            <td style="width: 320px;">
+                <div id='poster'>
+                    <img src='{PicBg}' class='bg' />
+                </div>
+            </td>
+            <td>
+                <!--<blockquote class="layui-elem-quote layui-quote-nm layui-elem-quote-admin">
+        <label class="col-sm-2 control-label">背景图片</label>
+        <div class="col-sm-9 col-xs-12">
+            <div class="input-group ">
+                <input type="text" name="bg" value="images/3/2017/09/gDAPxdVVxdf8F1SkvfV8IFBIPqKpvf.jpg" class="form-control" autocomplete="off">
+                <span class="input-group-btn">
+                    <button class="btn btn-default" type="button" onclick="showImageDialog(this);">选择图片</button>
+                </span>
+            </div>
+        </div>
+    </blockquote>-->
+                <fieldset class="layui-elem-field site-button">
+                    <legend>海报背景图</legend>
+                    <div class="cont">
+                        {Pic}
+                    </div>
+                </fieldset><br/>
+                <fieldset class="layui-elem-field site-button">
+                    <legend>海报元素</legend>
+                    <div class="cont">
+                        <button class='layui-btn btn-com head' type='button' data-type='head'>头像</button>
+                        <button class='layui-btn btn-com nickname' type='button' data-type='nickname'>昵称</button>
+                        <button class='layui-btn btn-com qr' type='button' data-type='qr'>二维码</button>
+                        <!--<button class='layui-btn btn-com' type='button' data-type='img'>图片</button>-->
+                    </div>
+                </fieldset>
+                <script type="text/javascript" src="/Content/draggabilly/draggabilly.pkgd.min.js"></script>
+                <script type="text/javascript" src="/Content/draggabilly/jquery.contextmenu.r2.js"></script>
+                <script type="text/javascript" src="/Content/draggabilly/designer.js"></script>
+                <script type="text/javascript" src="/Content/draggabilly/poster.js"></script>
+            </td>
+        </tr>
+    </tbody>
+</table>

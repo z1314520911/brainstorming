@@ -1,0 +1,12 @@
+D:\money\cristi\My\game\DBHelper\bin\Release\DBHelper.dll
+D:\money\cristi\My\game\DBHelper\bin\Release\DBHelper.pdb
+D:\money\cristi\My\game\DBHelper\obj\Release\DBHelper.csprojAssemblyReference.cache
+D:\money\cristi\My\game\DBHelper\obj\Release\DBHelper.csproj.CoreCompileInputs.cache
+D:\money\cristi\My\game\DBHelper\obj\Release\DBHelper.dll
+D:\money\cristi\My\game\DBHelper\obj\Release\DBHelper.pdb
+D:\money\cristi\My\yw\vote\DBHelper\bin\Release\DBHelper.dll
+D:\money\cristi\My\yw\vote\DBHelper\bin\Release\DBHelper.pdb
+D:\money\cristi\My\yw\vote\DBHelper\obj\Release\DBHelper.csprojAssemblyReference.cache
+D:\money\cristi\My\yw\vote\DBHelper\obj\Release\DBHelper.csproj.CoreCompileInputs.cache
+D:\money\cristi\My\yw\vote\DBHelper\obj\Release\DBHelper.dll
+D:\money\cristi\My\yw\vote\DBHelper\obj\Release\DBHelper.pdb

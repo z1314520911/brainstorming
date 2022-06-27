@@ -1,0 +1,23 @@
+/* miniprogram/pages/ideaList/idea/idea.wxss */
+.idea {
+  width: 600rpx;
+  height: 75rpx;
+  margin: 15rpx auto;
+  background-color: #f8f8f8;
+  padding-left: 10rpx;
+  line-height: 75rpx;
+  /* overflow: hidden; */
+}
+.idea text{
+  font-size: 35rpx;
+  /* text-overflow: ellipsis; */
+}
+.more-icon {
+  float: right;
+}
+
+.more-icon image {
+  height: 50rpx;
+  width: 50rpx;
+  vertical-align: middle;
+}

@@ -1,0 +1,11 @@
+<!-- 没用上 -->
+<template name='ideaTemplate'>
+  <view class="idea" bindtap='toIdeaDetails'>
+        <view>
+          <text>{{idea}}</text>
+          <view class='more-icon' catchtap='onMore'>
+            <image src='/images/more_icon.png'></image>
+          </view>
+        </view>
+      </view>
+</template>

@@ -1,0 +1,15 @@
+<template name='ideaInfoTemplate'>
+  <view class='idea-container'>
+    <view class="weui-panel" bindtap='onIdeaDeatails' data-theme-index="{{themeIndex}}" data-id="{{_id}}" data-gradation="{{gradation}}">
+      <view class="weui-panel__bd">
+        <view class="weui-media-box weui-media-box_text">
+          <view class="weui-media-box__title">{{theme}}</view>
+          <!-- <view class='weui-media-box__title_in-text parentage-text'>父模块/子模块1/子模块2/子模块3</view> -->
+          <!-- <view class='weui-media-box__title_in-text parentage-text'>/{{theme}}/{{secondTheme}}/{{thirdTheme}}</view> -->
+          <view class='weui-media-box__title_in-text parentage-text'>{{gradation}}</view>
+          <view class="weui-media-box__desc">{{remark}}</view>
+        </view>
+      </view>
+    </view>
+  </view>
+</template>

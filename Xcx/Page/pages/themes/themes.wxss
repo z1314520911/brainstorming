@@ -1,0 +1,13 @@
+/* pages/idea/idea.wxss */
+@import "theme/theme-template.wxss";
+
+.container {
+  display: flex;
+  flex-direction: row;
+  /* 换行 */
+  flex-wrap: wrap;
+}
+         .theme-template {
+  margin: 40rpx 10rpx 0rpx 40rpx;
+  /* float: left; */
+}
